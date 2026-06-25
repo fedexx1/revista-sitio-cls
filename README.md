@@ -25,19 +25,6 @@ the computational apparatus behind the paper: it reads the journal's 3,476 prose
    editors' own rubric, reproduces their interpretive tags only by over-naming concepts
    (recall **0.873**, precision **0.242**).
 
-## What is (and isn't) in this repository
-
-This repository publishes **derived data only** — embedding vectors, the concept layer, lemma and
-citation tables, association statistics, evaluation metrics, and figures. **It does not contain the
-raw prose of *Revista SITIO*.**
-
-The journal's text is published separately as a **TEI digital edition**:
-👉 **https://github.com/fedexx1/revista-sitio-digital** (`TEI/` directory).
-
-Full reproduction rebuilds the paragraph table from that public edition in one command
-(`src/parse.py`); the expensive artifacts (GPU embeddings, LLM concept layer) are shipped here so you
-do not have to regenerate them.
-
 ## Layout
 
 ```
@@ -45,19 +32,6 @@ src/        24 analysis scripts (the E/C/H pipeline; published unmodified)
 data/       frozen derived inputs — embedding vectors (.npy, Git LFS), concept layer,
             lemmas, person tables, curated lexicons   (NO raw prose)
 results/    computed tables and figures behind every claim in the paper
-```
-
-## Quick start
-
-```bash
-git lfs install                      # embeddings are stored with Git LFS
-git clone https://github.com/fedexx1/revista-sitio-cls.git && cd revista-sitio-cls
-pip install -r requirements.txt
-# rebuild the paragraph table from the public TEI edition, then run the analyses:
-git clone https://github.com/fedexx1/revista-sitio-digital.git
-export SITIO_TEI_DIR=$(pwd)/revista-sitio-digital/TEI   # PowerShell: $env:SITIO_TEI_DIR="...\TEI"
-python src/parse.py                                     # writes data/paragraphs.parquet (+ persons, concepts)
-python src/probe_robustness.py                          # §3 probe, using the shipped embeddings
 ```
 
 ## Citation
@@ -72,11 +46,4 @@ python src/probe_robustness.py                          # §3 probe, using the s
 }
 ```
 
-## License
 
-- **Code** (`src/`): MIT.
-- **Derived data and results** (`data/`, `results/`): CC-BY-4.0.
-- **Journal text**: not included here; governed by the
-  [TEI edition](https://github.com/fedexx1/revista-sitio-digital)'s own terms.
-- **Journal text**: not included here; governed by the
-  [TEI edition](https://github.com/fedexx1/revista-sitio-digital)'s own terms.
