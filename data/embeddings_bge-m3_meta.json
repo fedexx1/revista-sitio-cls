@@ -1,0 +1,10 @@
+{
+  "model_id": "BAAI/bge-m3",
+  "gpu_type": "L40S",
+  "dim": 1024,
+  "dtype": "float32",
+  "n_paragraphs": 3476,
+  "elapsed_s": 32.74,
+  "date_utc": "2026-06-10T11:47:46.886285+00:00",
+  "text_sha256": "70b281b8f8d581d38f005b21280dc145c7cf9175eb2162cb63324952eaeb2f13"
+}

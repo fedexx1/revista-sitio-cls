@@ -1,0 +1,1188 @@
+﻿lemma,region,a,n_bucket_paras,n_lemma_paras,log_odds,p,q,significant
+antisemitismo,Western Europe,15,506,17,3.623,0.0,0.0,True
+literario,Eastern Europe,14,53,138,2.275,0.0,0.0,True
+judio,Western Europe,38,506,66,2.138,0.0,0.0,True
+poema,Latin America,22,488,42,1.944,0.0,0.0,True
+exilio,Latin America,28,488,56,1.861,0.0,0.0,True
+ficcion,Latin America,26,488,55,1.749,0.0,0.0,True
+argentino,Latin America,27,488,60,1.66,0.0,0.0,True
+literatura,Latin America,77,488,181,1.648,0.0,0.0,True
+discurso,Latin America,48,488,114,1.577,0.0,0.0,True
+poesia,Western Europe,44,506,102,1.567,0.0,0.0,True
+lengua,Western Europe,36,506,83,1.563,0.0,0.0,True
+literario,Latin America,57,488,138,1.559,0.0,0.0,True
+novela,Latin America,36,488,93,1.414,0.0,0.0,True
+historia,Western Europe,48,506,124,1.387,0.0,0.0,True
+politico,Latin America,60,488,163,1.37,0.0,0.0,True
+escritura,Western Europe,51,506,135,1.351,0.0,0.0,True
+escritura,Latin America,49,488,135,1.33,0.0,0.0,True
+literatura,Western Europe,61,506,181,1.183,0.0,0.0,True
+literario,Western Europe,47,506,138,1.18,0.0,0.0,True
+literatura,North America,15,51,181,2.118,0.0,1e-06,True
+nacional,Latin America,20,488,38,1.95,0.0,1e-06,True
+estilo,Latin America,24,488,51,1.737,0.0,1e-06,True
+persecucion,Southern Europe / Classical,6,35,23,3.764,0.0,3e-06,True
+enunciacion,Latin America,23,488,51,1.657,0.0,3e-06,True
+antisemitismo,Eastern Europe,6,53,17,3.704,0.0,5e-06,True
+lectura,Latin America,30,488,80,1.353,0.0,5e-06,True
+politica,Latin America,19,488,40,1.746,0.0,1.5e-05,True
+realidad,Latin America,25,488,63,1.439,0.0,1.5e-05,True
+vacio,Other/Unknown,14,213,47,1.947,0.0,1.6e-05,True
+narrador,Latin America,18,488,38,1.739,1e-06,2.9e-05,True
+representacion,Western Europe,14,506,24,2.116,1e-06,3e-05,True
+relato,Latin America,30,488,87,1.221,1e-06,3.3e-05,True
+historia,Eastern Europe,11,53,124,2.066,2e-06,5.9e-05,True
+filosofia,Western Europe,17,506,36,1.688,3e-06,9.3e-05,True
+frances,Western Europe,12,506,20,2.176,3e-06,0.000107,True
+sujeto,Latin America,16,488,34,1.724,3e-06,0.000107,True
+lenguaje,Western Europe,31,506,93,1.126,3e-06,0.000107,True
+novela,Western Europe,31,506,93,1.126,3e-06,0.000107,True
+teoria,Western Europe,17,506,37,1.638,4e-06,0.00013,True
+identidad,Latin America,18,488,42,1.56,4e-06,0.000132,True
+sentido,Latin America,29,488,87,1.168,5e-06,0.000134,True
+iron,Western Europe,14,506,27,1.864,5e-06,0.000147,True
+procedimiento,Latin America,16,488,35,1.671,6e-06,0.000153,True
+blanco,Other/Unknown,10,213,30,2.1,6e-06,0.000165,True
+retorico,Latin America,17,488,39,1.588,6e-06,0.000165,True
+codigo,Latin America,18,488,43,1.519,7e-06,0.000172,True
+voracidad,Other/Unknown,7,213,14,2.758,7e-06,0.000176,True
+sociedad,Western Europe,22,506,58,1.317,8e-06,0.000205,True
+estetica,Latin America,14,488,29,1.769,1e-05,0.000239,True
+teoria,North America,6,51,37,2.734,1.2e-05,0.000282,True
+estilo,Western Europe,20,506,51,1.369,1.2e-05,0.000282,True
+clasico,Western Europe,11,506,19,2.091,1.4e-05,0.000315,True
+sistema,Latin America,19,488,49,1.393,1.4e-05,0.000315,True
+ensayo,Western Europe,14,506,29,1.725,1.5e-05,0.000334,True
+teorico,Latin America,8,488,11,2.714,1.6e-05,0.000339,True
+interes,Latin America,12,488,23,1.916,1.6e-05,0.000339,True
+exilio,Western Europe,21,506,56,1.298,1.6e-05,0.000341,True
+estetico,Latin America,11,488,20,2.022,1.9e-05,0.000382,True
+discurso,Western Europe,34,506,114,0.964,1.9e-05,0.000382,True
+dinero,Western Europe,23,506,65,1.209,2e-05,0.000391,True
+medieval,Western Europe,8,506,11,2.671,2.1e-05,0.000401,True
+edad,Other/Unknown,10,213,34,1.92,2.2e-05,0.000401,True
+ciencia,Western Europe,16,506,37,1.529,2.1e-05,0.000401,True
+metafora,Latin America,17,488,42,1.462,2.1e-05,0.000401,True
+literario,Other/Unknown,22,213,138,1.155,2.3e-05,0.000417,True
+estructura,Eastern Europe,5,53,25,2.935,2.9e-05,0.000493,True
+linguistico,Western Europe,9,506,14,2.332,2.8e-05,0.000493,True
+realidad,North America,7,51,63,2.308,2.8e-05,0.000493,True
+historia,Latin America,35,488,124,0.931,2.9e-05,0.000493,True
+orden,Western Europe,6,506,151,-1.378,2.8e-05,0.000493,True
+retorico,Southern Europe / Classical,5,35,39,2.88,3.5e-05,0.000571,True
+textual,Latin America,13,488,28,1.695,3.5e-05,0.000571,True
+lectura,Western Europe,26,506,80,1.082,3.5e-05,0.000571,True
+realidad,Western Europe,22,506,63,1.187,3.8e-05,0.000609,True
+singularidad,Latin America,8,488,12,2.462,4.2e-05,0.000659,True
+discurso,Eastern Europe,9,53,114,1.904,4.2e-05,0.000659,True
+parodiar,Eastern Europe,4,53,14,3.386,4.3e-05,0.000664,True
+real,Latin America,12,488,25,1.755,4.7e-05,0.000708,True
+poetico,Western Europe,16,506,39,1.44,4.7e-05,0.000708,True
+escritura,Other/Unknown,21,213,135,1.122,5.2e-05,0.000767,True
+critica,Latin America,18,488,49,1.306,5.6e-05,0.000808,True
+historico,Latin America,21,488,62,1.184,5.5e-05,0.000808,True
+estilo,Scandinavia,3,6,51,4.257,5.8e-05,0.000825,True
+romanticismo,Western Europe,9,506,15,2.164,6.1e-05,0.000855,True
+literatura,Eastern Europe,11,53,181,1.642,6.3e-05,0.00088,True
+real,Western Europe,12,506,25,1.712,6.8e-05,0.000935,True
+ficcion,Scandinavia,3,6,55,4.176,7.3e-05,0.00099,True
+territorio,Latin America,12,488,26,1.683,7.6e-05,0.001026,True
+pros,North America,4,51,17,3.176,8.5e-05,0.001134,True
+genero,Eastern Europe,7,53,74,2.082,0.000105,0.001382,True
+romantico,Western Europe,9,506,16,2.021,0.000121,0.001523,True
+escritura,North America,9,51,135,1.763,0.000117,0.001523,True
+ideologia,Latin America,12,488,27,1.616,0.00012,0.001523,True
+interior,Latin America,12,488,27,1.616,0.00012,0.001523,True
+detalle,Western Europe,8,506,13,2.219,0.000125,0.001566,True
+etico,Western Europe,17,506,46,1.271,0.000131,0.001602,True
+social,Latin America,22,488,69,1.094,0.00013,0.001602,True
+tradicion,Latin America,18,488,52,1.214,0.000137,0.001656,True
+investigacion,Southern Europe / Classical,3,35,11,3.773,0.000146,0.001752,True
+obra,Western Europe,18,506,51,1.2,0.000165,0.001964,True
+lectura,Eastern Europe,7,53,80,1.995,0.000172,0.002027,True
+economico,Western Europe,10,506,20,1.786,0.000183,0.002127,True
+sentido,Southern Europe / Classical,6,35,87,2.207,0.000187,0.002158,True
+retorico,Western Europe,15,506,39,1.333,0.000194,0.002219,True
+modernismo,Latin America,7,488,11,2.335,0.000204,0.002296,True
+discurso,North America,8,51,114,1.807,0.000205,0.002296,True
+realismo,Latin America,10,488,21,1.737,0.000224,0.002482,True
+metodo,Western Europe,11,506,24,1.626,0.00023,0.002532,True
+fracaso,Western Europe,7,506,11,2.292,0.000258,0.00281,True
+modernismo,Other/Unknown,5,213,11,2.582,0.000281,0.003006,True
+teorico,Other/Unknown,5,213,11,2.582,0.000281,0.003006,True
+sentido,Scandinavia,3,6,87,3.691,0.000287,0.003041,True
+enigma,Western Europe,10,506,21,1.694,0.000304,0.003166,True
+realismo,Western Europe,10,506,21,1.694,0.000304,0.003166,True
+literatura,Other/Unknown,24,213,181,0.936,0.000311,0.003213,True
+critica,Western Europe,17,506,49,1.173,0.000318,0.003252,True
+representacion,North America,4,51,24,2.756,0.000352,0.00357,True
+categoria,Latin America,8,488,15,1.951,0.00037,0.003675,True
+estilistico,Latin America,8,488,15,1.951,0.00037,0.003675,True
+lenguaje,Latin America,26,488,93,0.908,0.000372,0.003675,True
+religion,Western Europe,9,506,18,1.784,0.00039,0.003826,True
+filosofia,Southern Europe / Classical,4,35,36,2.707,0.000404,0.00393,True
+real,North America,4,51,25,2.708,0.000414,0.003967,True
+texto,Latin America,23,488,79,0.963,0.000413,0.003967,True
+judio,Eastern Europe,6,53,66,2.029,0.000424,0.00403,True
+novela,Eastern Europe,7,53,93,1.828,0.000442,0.00416,True
+fracaso,North America,3,51,11,3.368,0.000452,0.004225,True
+catolico,Western Europe,8,506,15,1.908,0.000478,0.004407,True
+mundo,Other/Unknown,15,213,94,1.14,0.000479,0.004407,True
+metafisico,Western Europe,10,506,22,1.611,0.000486,0.004435,True
+teorico,Eastern Europe,3,53,11,3.327,0.000507,0.004592,True
+cultura,Western Europe,19,506,59,1.063,0.000513,0.004614,True
+nacional,Western Europe,14,506,38,1.264,0.000534,0.004756,True
+sentido,Western Europe,25,506,87,0.902,0.000537,0.004756,True
+humanismo,Western Europe,7,506,12,2.091,0.000542,0.004765,True
+media,Other/Unknown,7,213,25,1.852,0.000547,0.00477,True
+erotico,Latin America,10,488,23,1.576,0.000557,0.004791,True
+edad,Western Europe,13,506,34,1.323,0.000556,0.004791,True
+territorio,Eastern Europe,4,53,26,2.621,0.000562,0.004799,True
+montaje,North America,3,51,12,3.256,0.000597,0.005058,True
+argentino,Western Europe,19,506,60,1.038,0.000616,0.005183,True
+divino,Other/Unknown,8,213,33,1.659,0.000637,0.005325,True
+descripcion,Western Europe,9,506,19,1.683,0.000647,0.005367,True
+escritor,Southern Europe / Classical,4,35,41,2.563,0.00067,0.005523,True
+narrativo,Eastern Europe,4,53,28,2.535,0.000752,0.006141,True
+literario,North America,8,51,138,1.596,0.000755,0.006141,True
+verosimil,North America,3,51,13,3.156,0.000768,0.006152,True
+critica,Eastern Europe,5,53,49,2.153,0.00078,0.006152,True
+referencia,Latin America,9,488,20,1.635,0.000783,0.006152,True
+significado,Latin America,9,488,20,1.635,0.000783,0.006152,True
+poema,Other/Unknown,9,213,42,1.5,0.000776,0.006152,True
+democracia,Latin America,7,488,13,1.967,0.000821,0.006368,True
+mito,Latin America,7,488,13,1.967,0.000821,0.006368,True
+cientifico,Western Europe,8,506,16,1.782,0.000836,0.006368,True
+construccion,Western Europe,8,506,16,1.782,0.000836,0.006368,True
+clase,Latin America,10,488,24,1.504,0.000837,0.006368,True
+detalle,Eastern Europe,3,53,13,3.115,0.00086,0.006417,True
+cultural,Eastern Europe,5,53,50,2.131,0.000857,0.006417,True
+escritura,Eastern Europe,8,53,135,1.575,0.00085,0.006417,True
+historico,Western Europe,19,506,62,0.99,0.000909,0.006741,True
+maravilloso,Latin America,6,488,10,2.19,0.000945,0.006798,True
+serie,Latin America,6,488,10,2.19,0.000945,0.006798,True
+estilo,Eastern Europe,5,53,51,2.109,0.000939,0.006798,True
+obra,Eastern Europe,5,53,51,2.109,0.000939,0.006798,True
+significado,Other/Unknown,6,213,20,1.949,0.000925,0.006798,True
+campo,North America,4,51,31,2.46,0.000966,0.006825,True
+cine,North America,4,51,31,2.46,0.000966,0.006825,True
+libertad,Southern Europe / Classical,4,35,45,2.46,0.000958,0.006825,True
+relacion,Eastern Europe,5,53,52,2.087,0.001027,0.006973,True
+contradiccion,Western Europe,7,506,13,1.924,0.001028,0.006973,True
+verosimil,Western Europe,7,506,13,1.924,0.001028,0.006973,True
+estetico,Western Europe,9,506,20,1.592,0.001026,0.006973,True
+plano,Western Europe,9,506,20,1.592,0.001026,0.006973,True
+etico,Latin America,15,488,46,1.123,0.00101,0.006973,True
+intelectual,Latin America,17,488,54,1.072,0.001011,0.006973,True
+escritura,Scandinavia,3,6,135,3.227,0.001052,0.007052,True
+epoca,Other/Unknown,5,213,14,2.201,0.001046,0.007052,True
+lengua,Latin America,23,488,83,0.893,0.001058,0.007057,True
+linguistico,Eastern Europe,3,53,14,3.024,0.001082,0.007098,True
+transgresion,Eastern Europe,3,53,14,3.024,0.001082,0.007098,True
+imposible,Latin America,8,488,17,1.713,0.00108,0.007098,True
+literario,Scandinavia,3,6,138,3.203,0.001122,0.007315,True
+acto,Latin America,14,488,42,1.155,0.001161,0.007532,True
+ambiguedad,North America,3,51,15,2.981,0.001196,0.007588,True
+sobrenatural,North America,3,51,15,2.981,0.001196,0.007588,True
+lengua,North America,6,51,83,1.82,0.001178,0.007588,True
+ideologico,Latin America,9,488,21,1.551,0.001202,0.007588,True
+nostalgia,Latin America,9,488,21,1.551,0.001202,0.007588,True
+posicion,Latin America,10,488,25,1.437,0.001223,0.007679,True
+historia,Southern Europe / Classical,6,35,124,1.821,0.001266,0.007871,True
+mundo,Latin America,25,488,94,0.838,0.001263,0.007871,True
+ficcion,Eastern Europe,5,53,55,2.025,0.001328,0.008211,True
+lengua,Other/Unknown,13,213,83,1.115,0.001365,0.008393,True
+sujeto,North America,4,51,34,2.356,0.001378,0.008399,True
+materno,Western Europe,8,506,17,1.671,0.00138,0.008399,True
+exilio,Eastern Europe,5,53,56,2.005,0.001442,0.008582,True
+complicidad,Latin America,7,488,14,1.823,0.001446,0.008582,True
+linguistico,Latin America,7,488,14,1.823,0.001446,0.008582,True
+lengua,Eastern Europe,6,53,83,1.776,0.001446,0.008582,True
+personaje,Western Europe,16,506,49,1.082,0.001442,0.008582,True
+espacio,Other/Unknown,11,213,64,1.226,0.001469,0.008673,True
+sujeto,Eastern Europe,4,53,34,2.314,0.001593,0.00922,True
+ausencia,Western Europe,11,506,29,1.309,0.0016,0.00922,True
+estetica,Western Europe,11,506,29,1.309,0.0016,0.00922,True
+simbolico,Western Europe,11,506,29,1.309,0.0016,0.00922,True
+ficcion,Western Europe,17,506,55,1.002,0.001591,0.00922,True
+romantico,Eastern Europe,3,53,16,2.863,0.00163,0.009299,True
+media,Western Europe,10,506,25,1.394,0.001627,0.009299,True
+metafora,Western Europe,14,506,42,1.112,0.001666,0.009464,True
+alegoer,Latin America,8,488,18,1.613,0.001708,0.009654,True
+imaginario,Latin America,10,488,26,1.375,0.001742,0.009799,True
+moderno,North America,3,51,17,2.832,0.001751,0.0098,True
+relacion,Latin America,16,488,52,1.038,0.001759,0.0098,True
+parodiar,Western Europe,7,506,14,1.781,0.001801,0.009804,True
+practica,Western Europe,7,506,14,1.781,0.001801,0.009804,True
+literatura,Southern Europe / Classical,7,35,181,1.595,0.001794,0.009804,True
+critico,Latin America,9,488,22,1.474,0.001785,0.009804,True
+espacio,Western Europe,19,506,64,0.945,0.001778,0.009804,True
+dimension,Latin America,6,488,11,1.989,0.001834,0.009851,True
+fragmentacion,Latin America,6,488,11,1.989,0.001834,0.009851,True
+cultura,Eastern Europe,5,53,59,1.948,0.001825,0.009851,True
+materno,Eastern Europe,3,53,17,2.791,0.001958,0.01042,True
+salvacion,Eastern Europe,3,53,17,2.791,0.001958,0.01042,True
+femenino,Other/Unknown,6,213,23,1.76,0.002063,0.010929,True
+nacional,North America,4,51,38,2.231,0.002101,0.011034,True
+narrador,North America,4,51,38,2.231,0.002101,0.011034,True
+novela,North America,6,51,93,1.696,0.002128,0.011129,True
+historico,Eastern Europe,5,53,62,1.893,0.002279,0.011866,True
+traduccion,Western Europe,19,506,66,0.901,0.002309,0.011969,True
+literatura,Scandinavia,3,6,181,2.915,0.002472,0.012433,True
+vista,North America,3,51,19,2.702,0.002444,0.012433,True
+nacional,Eastern Europe,4,53,38,2.19,0.002423,0.012433,True
+realidad,Eastern Europe,5,53,63,1.875,0.002447,0.012433,True
+existencia,Latin America,10,488,27,1.315,0.002426,0.012433,True
+imagen,Western Europe,15,506,47,1.048,0.00247,0.012433,True
+vacio,Western Europe,15,506,47,1.048,0.00247,0.012433,True
+ley,Western Europe,8,506,135,-0.967,0.002538,0.012713,True
+olvido,Latin America,12,488,36,1.155,0.002592,0.012928,True
+autor,Eastern Europe,4,53,39,2.161,0.00267,0.01323,True
+cultura,Other/Unknown,10,213,59,1.209,0.002675,0.01323,True
+moderno,Other/Unknown,5,213,17,1.926,0.002778,0.013627,True
+pobre,Other/Unknown,5,213,17,1.926,0.002778,0.013627,True
+estetico,North America,3,51,20,2.643,0.002845,0.013842,True
+cultural,Other/Unknown,9,213,50,1.283,0.002841,0.013842,True
+pueblo,Eastern Europe,4,53,40,2.133,0.002934,0.014044,True
+estilistico,Western Europe,7,506,15,1.655,0.002958,0.014044,True
+libre,Western Europe,7,506,15,1.655,0.002958,0.014044,True
+negativo,Western Europe,7,506,15,1.655,0.002958,0.014044,True
+original,Western Europe,7,506,15,1.655,0.002958,0.014044,True
+espacio,Latin America,18,488,64,0.912,0.002914,0.014044,True
+traduccion,Eastern Europe,5,53,66,1.825,0.003006,0.014216,True
+recordar,Southern Europe / Classical,3,35,30,2.593,0.003153,0.01485,True
+fracaso,Other/Unknown,4,213,11,2.233,0.003214,0.014953,True
+erotismo,Latin America,6,488,12,1.822,0.003237,0.014953,True
+humor,Latin America,6,488,12,1.822,0.003237,0.014953,True
+simbolo,Western Europe,10,506,27,1.272,0.003196,0.014953,True
+cuerpo,Latin America,29,488,122,0.687,0.003201,0.014953,True
+real,Other/Unknown,6,213,25,1.651,0.003264,0.015001,True
+modelo,Western Europe,8,506,19,1.479,0.003281,0.015001,True
+acontecimiento,Western Europe,9,506,23,1.359,0.003324,0.015001,True
+erotico,Western Europe,9,506,23,1.359,0.003324,0.015001,True
+analisis,Latin America,10,488,28,1.259,0.00331,0.015001,True
+narrativo,Latin America,10,488,28,1.259,0.00331,0.015001,True
+identidad,Other/Unknown,8,213,42,1.354,0.003358,0.015047,True
+teoria,Latin America,12,488,37,1.115,0.003359,0.015047,True
+sistema,Western Europe,15,506,49,0.987,0.003413,0.015231,True
+publico,Southern Europe / Classical,3,35,31,2.557,0.003466,0.015411,True
+desear,Western Europe,12,506,36,1.112,0.003537,0.015664,True
+ideologico,Eastern Europe,3,53,21,2.546,0.003667,0.016182,True
+argumentacion,Latin America,7,488,16,1.586,0.003738,0.016191,True
+exterior,Latin America,7,488,16,1.586,0.003738,0.016191,True
+filosofico,Latin America,7,488,16,1.586,0.003738,0.016191,True
+popular,Latin America,7,488,16,1.586,0.003738,0.016191,True
+produccion,Latin America,7,488,16,1.586,0.003738,0.016191,True
+imaginacion,Latin America,8,488,20,1.438,0.003801,0.016405,True
+decadencia,Western Europe,6,506,12,1.779,0.003909,0.016692,True
+montaje,Western Europe,6,506,12,1.779,0.003909,0.016692,True
+historico,Other/Unknown,10,213,62,1.149,0.003896,0.016692,True
+genero,Western Europe,20,506,74,0.813,0.004175,0.017761,True
+etico,North America,4,51,46,2.021,0.00426,0.018061,True
+ausencia,Latin America,10,488,29,1.206,0.004432,0.018723,True
+clasico,Other/Unknown,5,213,19,1.777,0.004721,0.019871,True
+intelectual,Other/Unknown,9,213,54,1.19,0.00487,0.020428,True
+politico,Southern Europe / Classical,6,35,163,1.525,0.00507,0.02119,True
+olvido,Southern Europe / Classical,3,35,36,2.394,0.00532,0.02182,True
+imagen,Eastern Europe,4,53,47,1.955,0.005293,0.02182,True
+localizacion,Latin America,6,488,13,1.678,0.005308,0.02182,True
+recuerdo,Latin America,6,488,13,1.678,0.005308,0.02182,True
+tragedia,Latin America,6,488,13,1.678,0.005308,0.02182,True
+desear,Other/Unknown,7,213,36,1.382,0.005331,0.02182,True
+metodo,Eastern Europe,3,53,24,2.395,0.005404,0.021967,True
+religioso,Eastern Europe,3,53,24,2.395,0.005404,0.021967,True
+seduccion,Latin America,7,488,17,1.486,0.005598,0.022601,True
+unidad,Latin America,7,488,17,1.486,0.005598,0.022601,True
+ciencia,Southern Europe / Classical,3,35,37,2.364,0.00575,0.023135,True
+fantastico,Latin America,10,488,30,1.156,0.005834,0.023394,True
+narrativo,Other/Unknown,6,213,28,1.507,0.005951,0.023783,True
+estilo,North America,4,51,51,1.908,0.006182,0.024626,True
+detalle,Other/Unknown,4,213,13,1.996,0.006318,0.024854,True
+cuestion,Western Europe,9,506,25,1.229,0.006344,0.024854,True
+identidad,Western Europe,13,506,42,1.003,0.00632,0.024854,True
+poema,Western Europe,13,506,42,1.003,0.00632,0.024854,True
+sociedad,Latin America,16,488,58,0.884,0.006326,0.024854,True
+continuidad,Western Europe,6,506,13,1.635,0.006379,0.024908,True
+conciencia,Latin America,18,488,67,0.848,0.006529,0.02541,True
+efecto,Latin America,9,488,26,1.213,0.00667,0.025787,True
+presente,Latin America,9,488,26,1.213,0.00667,0.025787,True
+imaginario,Eastern Europe,3,53,26,2.305,0.006794,0.026015,True
+iron,North America,3,51,27,2.304,0.006792,0.026015,True
+ideologico,Western Europe,8,506,21,1.318,0.006763,0.026015,True
+moderno,Western Europe,7,506,17,1.443,0.006868,0.026047,True
+salvacion,Western Europe,7,506,17,1.443,0.006868,0.026047,True
+unidad,Western Europe,7,506,17,1.443,0.006868,0.026047,True
+desnudez,Latin America,5,488,10,1.82,0.007325,0.027088,True
+dictadura,Latin America,5,488,10,1.82,0.007325,0.027088,True
+excepcion,Latin America,5,488,10,1.82,0.007325,0.027088,True
+menor,Latin America,5,488,10,1.82,0.007325,0.027088,True
+retorno,Latin America,5,488,10,1.82,0.007325,0.027088,True
+sensibilidad,Latin America,5,488,10,1.82,0.007325,0.027088,True
+topico,Latin America,5,488,10,1.82,0.007325,0.027088,True
+vocacion,Latin America,5,488,10,1.82,0.007325,0.027088,True
+ideologico,Other/Unknown,5,213,21,1.647,0.007472,0.027461,True
+memoria,Latin America,8,488,22,1.289,0.007466,0.027461,True
+ingles,Latin America,7,488,18,1.394,0.008073,0.029577,True
+materialidad,Latin America,6,488,14,1.553,0.008205,0.029694,True
+metonimia,Latin America,6,488,14,1.553,0.008205,0.029694,True
+transformacion,Latin America,6,488,14,1.553,0.008205,0.029694,True
+voracidad,Latin America,6,488,14,1.553,0.008205,0.029694,True
+arte,Western Europe,12,506,38,1.033,0.008254,0.029778,True
+relato,North America,5,51,87,1.567,0.008312,0.029897,True
+perdon,Other/Unknown,4,213,14,1.895,0.008427,0.029996,True
+realista,Other/Unknown,4,213,14,1.895,0.008427,0.029996,True
+poetico,Other/Unknown,7,213,39,1.284,0.008401,0.029996,True
+politico,Western Europe,36,506,163,0.548,0.00844,0.029996,True
+imposibilidad,Western Europe,5,506,10,1.777,0.008577,0.030301,True
+totalidad,Western Europe,5,506,10,1.777,0.008577,0.030301,True
+exilio,North America,4,51,56,1.806,0.008611,0.03033,True
+iron,Latin America,9,488,27,1.157,0.008791,0.030874,True
+palabra,Western Europe,29,506,124,0.621,0.008829,0.030915,True
+lector,Latin America,12,488,40,1.002,0.009079,0.031696,True
+ensayo,Eastern Europe,3,53,29,2.184,0.009246,0.032186,True
+misterio,Western Europe,8,506,22,1.246,0.009304,0.032291,True
+mirada,Western Europe,12,506,39,0.995,0.009396,0.032516,True
+comprension,Western Europe,6,506,14,1.51,0.009813,0.033762,True
+pintura,Western Europe,6,506,14,1.51,0.009813,0.033762,True
+pensamiento,Western Europe,15,506,54,0.85,0.010146,0.034696,True
+tiempo,Western Europe,25,506,104,0.656,0.010172,0.034696,True
+alma,Western Europe,4,506,82,-1.109,0.010172,0.034696,True
+escritor,Latin America,12,488,41,0.968,0.010383,0.035314,True
+escritura,Southern Europe / Classical,5,35,135,1.521,0.010418,0.035331,True
+catolico,Other/Unknown,4,213,15,1.804,0.010948,0.037025,True
+trabajo,Eastern Europe,3,53,31,2.111,0.011133,0.037438,True
+historia,Other/Unknown,15,213,124,0.811,0.01112,0.037438,True
+limite,Other/Unknown,5,213,23,1.532,0.01118,0.037489,True
+obra,Other/Unknown,8,213,51,1.119,0.01127,0.037682,True
+literario,Southern Europe / Classical,5,35,138,1.497,0.011397,0.038001,True
+cultural,Latin America,14,488,50,0.905,0.01161,0.038602,True
+enunciar,Latin America,5,488,11,1.652,0.011902,0.039025,True
+fantasma,Latin America,5,488,11,1.652,0.011902,0.039025,True
+nino,Latin America,5,488,11,1.652,0.011902,0.039025,True
+pacto,Latin America,5,488,11,1.652,0.011902,0.039025,True
+temporal,Latin America,5,488,11,1.652,0.011902,0.039025,True
+aventura,Latin America,6,488,15,1.441,0.012084,0.039085,True
+cita,Latin America,6,488,15,1.441,0.012084,0.039085,True
+fragmento,Latin America,6,488,15,1.441,0.012084,0.039085,True
+romanticismo,Latin America,6,488,15,1.441,0.012084,0.039085,True
+sobrenatural,Latin America,6,488,15,1.441,0.012084,0.039085,True
+raza,Western Europe,8,506,23,1.179,0.012493,0.040297,True
+tradicion,Other/Unknown,8,213,52,1.096,0.012637,0.040651,True
+lenguaje,Eastern Europe,5,53,93,1.453,0.012823,0.041136,True
+edad,North America,3,51,34,2.051,0.012931,0.04126,True
+punto,North America,3,51,34,2.051,0.012931,0.04126,True
+lenguaje,Southern Europe / Classical,4,35,93,1.677,0.013332,0.042189,True
+risa,Other/Unknown,5,213,24,1.479,0.013435,0.042189,True
+mundo,Eastern Europe,5,53,94,1.441,0.013389,0.042189,True
+ilusion,Latin America,8,488,24,1.159,0.013303,0.042189,True
+metodo,Latin America,8,488,24,1.159,0.013303,0.042189,True
+realidad,Other/Unknown,9,213,63,1.006,0.013434,0.042189,True
+tiempo,Latin America,24,488,104,0.645,0.013776,0.043145,True
+fidelidad,Western Europe,5,506,11,1.61,0.01387,0.043327,True
+espectador,Western Europe,6,506,15,1.398,0.014383,0.04481,True
+ensayo,Latin America,9,488,29,1.054,0.014518,0.045111,True
+poeta,Western Europe,12,506,42,0.891,0.014989,0.046453,True
+traduccion,North America,4,51,66,1.629,0.015178,0.046918,True
+economico,Latin America,7,488,20,1.233,0.015292,0.047146,True
+movimiento,Eastern Europe,3,53,35,1.979,0.015533,0.047765,True
+arte,Latin America,11,488,38,0.953,0.015604,0.04786,True
+estructura,Other/Unknown,5,213,25,1.429,0.015978,0.048881,True
+ciencia,North America,3,51,37,1.959,0.016281,0.049588,True
+intelectual,Southern Europe / Classical,3,35,54,1.959,0.016334,0.049588,True
+pensamiento,Southern Europe / Classical,3,35,54,1.959,0.016334,0.049588,True
+religioso,Western Europe,8,506,24,1.116,0.016417,0.04971,True
+tradicion,Western Europe,14,506,52,0.808,0.016514,0.049877,True
+filosofia,Eastern Europe,3,53,36,1.948,0.016765,0.050508,False
+cientifico,Latin America,6,488,16,1.341,0.017092,0.050722,False
+economia,Latin America,6,488,16,1.341,0.017092,0.050722,False
+felicidad,Latin America,6,488,16,1.341,0.017092,0.050722,False
+opinion,Latin America,6,488,16,1.341,0.017092,0.050722,False
+tecnico,Latin America,6,488,16,1.341,0.017092,0.050722,False
+verbal,Latin America,6,488,16,1.341,0.017092,0.050722,False
+vacio,Latin America,13,488,47,0.888,0.017175,0.05084,False
+antiguo,Other/Unknown,4,213,17,1.643,0.017336,0.051188,False
+interpretacion,Western Europe,13,506,46,0.875,0.01766,0.051888,False
+mundo,Western Europe,22,506,94,0.619,0.01764,0.051888,False
+voz,Other/Unknown,9,213,66,0.952,0.017925,0.052344,False
+autor,Latin America,11,488,39,0.917,0.017948,0.052344,False
+poetico,Latin America,11,488,39,0.917,0.017948,0.052344,False
+ciencia,Eastern Europe,3,53,37,1.918,0.018051,0.052373,False
+revista,Latin America,5,488,12,1.509,0.01809,0.052373,False
+subversion,Latin America,5,488,12,1.509,0.01809,0.052373,False
+significado,Western Europe,7,506,20,1.191,0.018491,0.053405,False
+autor,North America,3,51,39,1.902,0.018762,0.053924,False
+apartamiento,Western Europe,10,506,32,1.019,0.018751,0.053924,False
+imaginario,Other/Unknown,5,213,26,1.381,0.018823,0.053967,False
+tiempo,Southern Europe / Classical,4,35,104,1.558,0.019418,0.055541,False
+desnudez,Other/Unknown,3,213,10,1.977,0.019748,0.055679,False
+pagina,Other/Unknown,3,213,10,1.977,0.019748,0.055679,False
+positivo,Other/Unknown,3,213,10,1.977,0.019748,0.055679,False
+serie,Other/Unknown,3,213,10,1.977,0.019748,0.055679,False
+dolor,Latin America,3,488,66,-1.102,0.01964,0.055679,False
+judio,Latin America,3,488,66,-1.102,0.01964,0.055679,False
+narracion,North America,3,51,40,1.875,0.020077,0.056339,False
+personaje,Latin America,13,488,49,0.831,0.02004,0.056339,False
+enigma,Latin America,7,488,21,1.162,0.020238,0.056656,False
+civilizacion,Western Europe,5,506,12,1.466,0.020985,0.05793,False
+empresa,Western Europe,5,506,12,1.466,0.020985,0.05793,False
+gocir,Western Europe,5,506,12,1.466,0.020985,0.05793,False
+heroe,Western Europe,5,506,12,1.466,0.020985,0.05793,False
+singularidad,Western Europe,5,506,12,1.466,0.020985,0.05793,False
+cultura,Latin America,15,488,59,0.773,0.020883,0.05793,False
+estructura,Western Europe,8,506,25,1.057,0.021157,0.058266,False
+lector,Eastern Europe,3,53,40,1.834,0.022231,0.061084,False
+imagen,Other/Unknown,7,213,47,1.062,0.022695,0.062215,False
+acto,North America,3,51,42,1.822,0.022856,0.062369,False
+identidad,North America,3,51,42,1.822,0.022856,0.062369,False
+teoria,Other/Unknown,6,213,37,1.168,0.0232,0.063162,False
+nacion,Western Europe,7,506,21,1.119,0.024356,0.066156,False
+caracter,Eastern Europe,3,53,42,1.781,0.025288,0.068374,False
+metafora,Eastern Europe,3,53,42,1.781,0.025288,0.068374,False
+escena,Other/Unknown,5,213,28,1.291,0.025467,0.068547,False
+textual,Other/Unknown,5,213,28,1.291,0.025467,0.068547,False
+cao,Other/Unknown,3,213,11,1.851,0.025948,0.068647,False
+medieval,Other/Unknown,3,213,11,1.851,0.025948,0.068647,False
+creencia,Other/Unknown,4,213,19,1.504,0.02565,0.068647,False
+descripcion,Other/Unknown,4,213,19,1.504,0.02565,0.068647,False
+detalle,Latin America,5,488,13,1.383,0.026079,0.068647,False
+europeo,Latin America,5,488,13,1.383,0.026079,0.068647,False
+instancia,Latin America,5,488,13,1.383,0.026079,0.068647,False
+medio,Latin America,5,488,13,1.383,0.026079,0.068647,False
+percepcion,Latin America,5,488,13,1.383,0.026079,0.068647,False
+arte,Other/Unknown,6,213,38,1.136,0.026188,0.068647,False
+nacional,Other/Unknown,6,213,38,1.136,0.026188,0.068647,False
+metafisico,Latin America,7,488,22,1.095,0.026198,0.068647,False
+oposicion,Western Europe,6,506,17,1.207,0.027546,0.071546,False
+pros,Western Europe,6,506,17,1.207,0.027546,0.071546,False
+seduccion,Western Europe,6,506,17,1.207,0.027546,0.071546,False
+responsabilidad,Latin America,4,488,75,-0.97,0.027471,0.071546,False
+novela,Other/Unknown,11,213,93,0.784,0.027804,0.072061,False
+sistema,Other/Unknown,7,213,49,1.013,0.027963,0.072313,False
+dinero,Latin America,3,488,65,-1.086,0.028392,0.073263,False
+lectura,North America,4,51,80,1.423,0.02868,0.073846,False
+figura,Other/Unknown,5,213,29,1.249,0.029287,0.075247,False
+sueno,Latin America,16,488,66,0.709,0.029354,0.075254,False
+autor,Other/Unknown,6,213,39,1.106,0.029423,0.075268,False
+hombre,Southern Europe / Classical,3,35,68,1.714,0.029995,0.07638,False
+europeo,Western Europe,5,506,13,1.341,0.030114,0.07638,False
+identificacion,Western Europe,5,506,13,1.341,0.030114,0.07638,False
+mito,Western Europe,5,506,13,1.341,0.030114,0.07638,False
+imagen,North America,3,51,47,1.702,0.030679,0.077174,False
+frances,Other/Unknown,4,213,20,1.442,0.030566,0.077174,False
+frase,Other/Unknown,4,213,20,1.442,0.030566,0.077174,False
+libertad,Western Europe,12,506,45,0.796,0.030688,0.077174,False
+cuento,Latin America,6,488,18,1.166,0.031007,0.077811,False
+texto,Eastern Europe,4,53,79,1.394,0.031193,0.078113,False
+etico,Eastern Europe,3,53,46,1.684,0.032048,0.080086,False
+diferencia,Other/Unknown,3,213,12,1.74,0.033067,0.082059,False
+especie,Other/Unknown,3,213,12,1.74,0.033067,0.082059,False
+madera,Other/Unknown,3,213,12,1.74,0.033067,0.082059,False
+femenino,Latin America,7,488,23,1.032,0.033252,0.082059,False
+pais,Latin America,7,488,23,1.032,0.033252,0.082059,False
+viaje,Latin America,7,488,23,1.032,0.033252,0.082059,False
+historia,North America,5,51,124,1.186,0.03376,0.082985,False
+tiempo,Other/Unknown,12,213,104,0.755,0.033767,0.082985,False
+estilo,Other/Unknown,7,213,51,0.966,0.034005,0.083397,False
+critica,North America,3,51,49,1.657,0.034156,0.083421,False
+personaje,North America,3,51,49,1.657,0.034156,0.083421,False
+nacion,Other/Unknown,4,213,21,1.382,0.035999,0.086173,False
+invencion,Latin America,5,488,14,1.272,0.036008,0.086173,False
+parodiar,Latin America,5,488,14,1.272,0.036008,0.086173,False
+realista,Latin America,5,488,14,1.272,0.036008,0.086173,False
+transgresion,Latin America,5,488,14,1.272,0.036008,0.086173,False
+unico,Latin America,5,488,14,1.272,0.036008,0.086173,False
+zona,Latin America,5,488,14,1.272,0.036008,0.086173,False
+campo,Western Europe,9,506,31,0.917,0.035501,0.086173,False
+cine,Western Europe,9,506,31,0.917,0.035501,0.086173,False
+trabajo,Western Europe,9,506,31,0.917,0.035501,0.086173,False
+expresion,Western Europe,6,506,18,1.123,0.03639,0.086737,False
+generacion,Western Europe,6,506,18,1.123,0.03639,0.086737,False
+sistema,Eastern Europe,3,53,49,1.616,0.03768,0.089596,False
+enunciacion,North America,3,51,51,1.615,0.03783,0.089596,False
+obra,North America,3,51,51,1.615,0.03783,0.089596,False
+valor,Other/Unknown,5,213,31,1.17,0.037967,0.089596,False
+noche,Latin America,4,488,72,-0.926,0.037943,0.089596,False
+analogia,Latin America,4,488,10,1.45,0.040096,0.091925,False
+democratico,Latin America,4,488,10,1.45,0.040096,0.091925,False
+documento,Latin America,4,488,10,1.45,0.040096,0.091925,False
+homosexualidad,Latin America,4,488,10,1.45,0.040096,0.091925,False
+metamorfosis,Latin America,4,488,10,1.45,0.040096,0.091925,False
+pagina,Latin America,4,488,10,1.45,0.040096,0.091925,False
+patrio,Latin America,4,488,10,1.45,0.040096,0.091925,False
+positivo,Latin America,4,488,10,1.45,0.040096,0.091925,False
+protagonista,Latin America,4,488,10,1.45,0.040096,0.091925,False
+proyecto,Latin America,4,488,10,1.45,0.040096,0.091925,False
+simbolismir,Latin America,4,488,10,1.45,0.040096,0.091925,False
+temporalidad,Latin America,4,488,10,1.45,0.040096,0.091925,False
+totalidad,Latin America,4,488,10,1.45,0.040096,0.091925,False
+creencia,Latin America,6,488,19,1.088,0.040116,0.091925,False
+modelo,Latin America,6,488,19,1.088,0.040116,0.091925,False
+conflicto,Other/Unknown,3,213,13,1.639,0.041092,0.09288,False
+continuidad,Other/Unknown,3,213,13,1.639,0.041092,0.09288,False
+verosimil,Other/Unknown,3,213,13,1.639,0.041092,0.09288,False
+drama,Western Europe,5,506,14,1.229,0.041393,0.09288,False
+epoca,Western Europe,5,506,14,1.229,0.041393,0.09288,False
+invencion,Western Europe,5,506,14,1.229,0.041393,0.09288,False
+progreso,Western Europe,5,506,14,1.229,0.041393,0.09288,False
+transgresion,Western Europe,5,506,14,1.229,0.041393,0.09288,False
+zona,Western Europe,5,506,14,1.229,0.041393,0.09288,False
+escritor,Western Europe,11,506,41,0.805,0.040667,0.09288,False
+lugar,Western Europe,15,506,61,0.685,0.041031,0.09288,False
+conocimiento,Other/Unknown,5,213,32,1.133,0.042838,0.09594,False
+intelectual,North America,3,51,54,1.554,0.043707,0.097702,False
+funcion,Western Europe,11,506,42,0.773,0.044307,0.098858,False
+creador,Western Europe,4,506,10,1.407,0.045123,0.099003,False
+documento,Western Europe,4,506,10,1.407,0.045123,0.099003,False
+excepcion,Western Europe,4,506,10,1.407,0.045123,0.099003,False
+frontera,Western Europe,4,506,10,1.407,0.045123,0.099003,False
+intimo,Western Europe,4,506,10,1.407,0.045123,0.099003,False
+menor,Western Europe,4,506,10,1.407,0.045123,0.099003,False
+simbolismir,Western Europe,4,506,10,1.407,0.045123,0.099003,False
+temporalidad,Western Europe,4,506,10,1.407,0.045123,0.099003,False
+pensamiento,Other/Unknown,7,213,54,0.9,0.044603,0.099003,False
+creacion,Western Europe,6,506,19,1.046,0.046865,0.102447,False
+vista,Western Europe,6,506,19,1.046,0.046865,0.102447,False
+pensamiento,Eastern Europe,3,53,54,1.513,0.048118,0.104227,False
+ambiguedad,Latin America,5,488,15,1.171,0.04797,0.104227,False
+anormal,Latin America,5,488,15,1.171,0.04797,0.104227,False
+copia,Latin America,5,488,15,1.171,0.04797,0.104227,False
+escena,Latin America,8,488,28,0.941,0.048083,0.104227,False
+erotico,Other/Unknown,4,213,23,1.274,0.048434,0.10434,False
+espanol,Other/Unknown,4,213,23,1.274,0.048434,0.10434,False
+interes,Other/Unknown,4,213,23,1.274,0.048434,0.10434,False
+doctrina,Other/Unknown,3,213,14,1.548,0.050001,0.106747,False
+linguistico,Other/Unknown,3,213,14,1.548,0.050001,0.106747,False
+parodiar,Other/Unknown,3,213,14,1.548,0.050001,0.106747,False
+transgresion,Other/Unknown,3,213,14,1.548,0.050001,0.106747,False
+lengua,Southern Europe / Classical,3,35,83,1.503,0.049662,0.106747,False
+texto,Western Europe,18,506,79,0.583,0.050599,0.107829,False
+delito,Latin America,4,488,68,-0.865,0.051636,0.109841,False
+intelectual,Western Europe,13,506,54,0.658,0.052134,0.110704,False
+guerra,Western Europe,7,506,93,-0.692,0.052275,0.110805,False
+analisis,Western Europe,8,506,28,0.898,0.052995,0.111733,False
+ocaso,Western Europe,8,506,28,0.898,0.052995,0.111733,False
+textual,Western Europe,8,506,28,0.898,0.052995,0.111733,False
+palabra,Other/Unknown,13,213,124,0.644,0.053242,0.112055,False
+sujeto,Other/Unknown,5,213,34,1.062,0.053661,0.112735,False
+aventura,Western Europe,5,506,15,1.129,0.054898,0.114323,False
+categoria,Western Europe,5,506,15,1.129,0.054898,0.114323,False
+cita,Western Europe,5,506,15,1.129,0.054898,0.114323,False
+perspectiva,Western Europe,5,506,15,1.129,0.054898,0.114323,False
+psicoanalisis,Western Europe,5,506,15,1.129,0.054898,0.114323,False
+natural,Other/Unknown,4,213,24,1.223,0.055434,0.114834,False
+religioso,Other/Unknown,4,213,24,1.223,0.055434,0.114834,False
+verbo,Other/Unknown,4,213,24,1.223,0.055434,0.114834,False
+cao,Latin America,4,488,11,1.306,0.056206,0.115828,False
+discontinuidad,Latin America,4,488,11,1.306,0.056206,0.115828,False
+sentimiento,Latin America,4,488,11,1.306,0.056206,0.115828,False
+esencia,Western Europe,12,506,47,0.737,0.056874,0.117002,False
+imaginacion,Western Europe,6,506,20,0.974,0.059025,0.121216,False
+estilistico,Other/Unknown,3,213,15,1.464,0.059764,0.121595,False
+perspectiva,Other/Unknown,3,213,15,1.464,0.059764,0.121595,False
+romanticismo,Other/Unknown,3,213,15,1.464,0.059764,0.121595,False
+letra,Other/Unknown,5,213,35,1.028,0.059616,0.121595,False
+figura,Western Europe,8,506,29,0.85,0.059927,0.121595,False
+lectura,Other/Unknown,9,213,80,0.73,0.059768,0.121595,False
+lugar,Latin America,14,488,61,0.638,0.059878,0.121595,False
+judio,Other/Unknown,8,213,66,0.818,0.06124,0.124049,False
+cancion,Western Europe,4,506,11,1.264,0.062981,0.124806,False
+colectivo,Western Europe,4,506,11,1.264,0.062981,0.124806,False
+dimension,Western Europe,4,506,11,1.264,0.062981,0.124806,False
+geografico,Western Europe,4,506,11,1.264,0.062981,0.124806,False
+impotencia,Western Europe,4,506,11,1.264,0.062981,0.124806,False
+mistico,Western Europe,4,506,11,1.264,0.062981,0.124806,False
+modernismo,Western Europe,4,506,11,1.264,0.062981,0.124806,False
+temporal,Western Europe,4,506,11,1.264,0.062981,0.124806,False
+teorico,Western Europe,4,506,11,1.264,0.062981,0.124806,False
+amoroso,Latin America,5,488,16,1.08,0.062006,0.124806,False
+familiar,Latin America,5,488,16,1.08,0.062006,0.124806,False
+grupo,Latin America,5,488,16,1.08,0.062006,0.124806,False
+narracion,Latin America,10,488,40,0.755,0.062409,0.124806,False
+autor,Western Europe,10,506,39,0.746,0.063883,0.126381,False
+relato,Other/Unknown,10,213,87,0.752,0.064137,0.126674,False
+olvido,Other/Unknown,5,213,36,0.996,0.065933,0.129546,False
+limite,Western Europe,7,506,23,0.989,0.066137,0.129546,False
+musica,Western Europe,7,506,23,0.989,0.066137,0.129546,False
+oro,Western Europe,7,506,23,0.989,0.066137,0.129546,False
+persecucion,Western Europe,7,506,23,0.989,0.066137,0.129546,False
+memorio,Latin America,14,488,63,0.596,0.06676,0.13055,False
+cultural,Western Europe,12,506,50,0.655,0.067374,0.131535,False
+dialogo,Latin America,7,488,24,0.973,0.067622,0.131585,False
+risa,Latin America,7,488,24,0.973,0.067622,0.131585,False
+fantastico,Western Europe,8,506,30,0.804,0.068226,0.132544,False
+cientifico,Other/Unknown,3,213,16,1.387,0.070346,0.13439,False
+corrupcion,Other/Unknown,3,213,16,1.387,0.070346,0.13439,False
+economia,Other/Unknown,3,213,16,1.387,0.070346,0.13439,False
+sufrimiento,Other/Unknown,3,213,16,1.387,0.070346,0.13439,False
+universal,Other/Unknown,3,213,16,1.387,0.070346,0.13439,False
+argumentacion,Western Europe,5,506,16,1.038,0.070648,0.13439,False
+economia,Western Europe,5,506,16,1.038,0.070648,0.13439,False
+espiritual,Western Europe,5,506,16,1.038,0.070648,0.13439,False
+filosofico,Western Europe,5,506,16,1.038,0.070648,0.13439,False
+grupo,Western Europe,5,506,16,1.038,0.070648,0.13439,False
+universal,Western Europe,5,506,16,1.038,0.070648,0.13439,False
+verbal,Western Europe,5,506,16,1.038,0.070648,0.13439,False
+pueblo,Western Europe,10,506,40,0.712,0.069805,0.13439,False
+razon,Other/Unknown,4,213,26,1.13,0.070972,0.134791,False
+voz,North America,3,51,66,1.341,0.071426,0.135436,False
+natural,Western Europe,7,506,24,0.93,0.071818,0.135746,False
+risa,Western Europe,7,506,24,0.93,0.071818,0.135746,False
+nombre,Other/Unknown,5,213,37,0.964,0.07261,0.137024,False
+espacio,Eastern Europe,3,53,64,1.332,0.072761,0.13709,False
+conciencia,North America,3,51,67,1.325,0.074026,0.139253,False
+civilizacion,Latin America,4,488,12,1.181,0.075265,0.14003,False
+comunidad,Latin America,4,488,12,1.181,0.075265,0.14003,False
+filosofo,Latin America,4,488,12,1.181,0.075265,0.14003,False
+fuente,Latin America,4,488,12,1.181,0.075265,0.14003,False
+heroe,Latin America,4,488,12,1.181,0.075265,0.14003,False
+juez,Latin America,4,488,12,1.181,0.075265,0.14003,False
+suicidio,Latin America,4,488,12,1.181,0.075265,0.14003,False
+derecho,Western Europe,6,506,80,-0.683,0.077026,0.143083,False
+actividad,Latin America,5,488,17,0.996,0.078107,0.143742,False
+fijo,Latin America,5,488,17,0.996,0.078107,0.143742,False
+materno,Latin America,5,488,17,0.996,0.078107,0.143742,False
+oposicion,Latin America,5,488,17,0.996,0.078107,0.143742,False
+pros,Latin America,5,488,17,0.996,0.078107,0.143742,False
+alma,Latin America,6,488,82,-0.668,0.077782,0.143742,False
+voz,Eastern Europe,3,53,66,1.3,0.078258,0.143795,False
+iron,Other/Unknown,4,213,27,1.086,0.079492,0.145389,False
+pecado,Other/Unknown,4,213,27,1.086,0.079492,0.145389,False
+practico,Western Europe,7,506,25,0.874,0.079412,0.145389,False
+cristiano,Other/Unknown,5,213,38,0.934,0.079644,0.145442,False
+antisemitismo,Other/Unknown,3,213,17,1.315,0.081705,0.14606,False
+caballo,Other/Unknown,3,213,17,1.315,0.081705,0.14606,False
+fijo,Other/Unknown,3,213,17,1.315,0.081705,0.14606,False
+imposible,Other/Unknown,3,213,17,1.315,0.081705,0.14606,False
+infinito,Other/Unknown,3,213,17,1.315,0.081705,0.14606,False
+materno,Other/Unknown,3,213,17,1.315,0.081705,0.14606,False
+oposicion,Other/Unknown,3,213,17,1.315,0.081705,0.14606,False
+posesion,Other/Unknown,3,213,17,1.315,0.081705,0.14606,False
+conciencia,Eastern Europe,3,53,67,1.284,0.081074,0.14606,False
+exilio,Other/Unknown,7,213,56,0.858,0.080878,0.14606,False
+letra,Latin America,9,488,35,0.795,0.080646,0.14606,False
+punto,Western Europe,9,506,34,0.791,0.080771,0.14606,False
+sujeto,Western Europe,9,506,34,0.791,0.080771,0.14606,False
+orden,Other/Unknown,4,213,151,-0.79,0.080305,0.14606,False
+comunidad,Western Europe,4,506,12,1.138,0.083979,0.147898,False
+cuadro,Western Europe,4,506,12,1.138,0.083979,0.147898,False
+deseo,Western Europe,4,506,12,1.138,0.083979,0.147898,False
+diferencia,Western Europe,4,506,12,1.138,0.083979,0.147898,False
+erotismo,Western Europe,4,506,12,1.138,0.083979,0.147898,False
+especie,Western Europe,4,506,12,1.138,0.083979,0.147898,False
+filosofo,Western Europe,4,506,12,1.138,0.083979,0.147898,False
+humor,Western Europe,4,506,12,1.138,0.083979,0.147898,False
+sexual,Western Europe,4,506,12,1.138,0.083979,0.147898,False
+significacion,Western Europe,4,506,12,1.138,0.083979,0.147898,False
+error,Latin America,9,488,36,0.758,0.084962,0.149408,False
+procedimiento,Western Europe,9,506,35,0.752,0.085631,0.150361,False
+social,Eastern Europe,3,53,69,1.253,0.086837,0.152253,False
+presente,Western Europe,7,506,26,0.821,0.088861,0.155572,False
+simbolo,Latin America,7,488,27,0.813,0.090064,0.157446,False
+ciego,Other/Unknown,3,213,18,1.248,0.093797,0.163203,False
+generacion,Other/Unknown,3,213,18,1.248,0.093797,0.163203,False
+religion,Other/Unknown,3,213,18,1.248,0.093797,0.163203,False
+muerte,North America,5,51,166,0.872,0.093907,0.163203,False
+contemporaneo,Latin America,4,488,13,1.069,0.097125,0.167569,False
+marca,Latin America,4,488,13,1.069,0.097125,0.167569,False
+puro,Latin America,4,488,13,1.069,0.097125,0.167569,False
+verosimil,Latin America,4,488,13,1.069,0.097125,0.167569,False
+vertigo,Latin America,4,488,13,1.069,0.097125,0.167569,False
+ensayo,Other/Unknown,4,213,29,1.004,0.09797,0.168782,False
+ideologia,Western Europe,7,506,27,0.771,0.100098,0.171948,False
+objeto,Western Europe,7,506,27,0.771,0.100098,0.171948,False
+politico,Eastern Europe,5,53,163,0.849,0.100427,0.172264,False
+desierto,Latin America,7,488,28,0.765,0.100934,0.172884,False
+derecho,Latin America,6,488,80,-0.641,0.102542,0.175385,False
+creacion,Other/Unknown,3,213,19,1.186,0.106575,0.178412,False
+culpa,Other/Unknown,3,213,19,1.186,0.106575,0.178412,False
+malo,Other/Unknown,3,213,19,1.186,0.106575,0.178412,False
+modelo,Other/Unknown,3,213,19,1.186,0.106575,0.178412,False
+sonido,Other/Unknown,3,213,19,1.186,0.106575,0.178412,False
+verosimilitud,Other/Unknown,3,213,19,1.186,0.106575,0.178412,False
+discurso,Southern Europe / Classical,3,35,114,1.168,0.105457,0.178412,False
+capital,Western Europe,4,506,13,1.027,0.107919,0.178412,False
+contemporaneo,Western Europe,4,506,13,1.027,0.107919,0.178412,False
+intencion,Western Europe,4,506,13,1.027,0.107919,0.178412,False
+liberacion,Western Europe,4,506,13,1.027,0.107919,0.178412,False
+localizacion,Western Europe,4,506,13,1.027,0.107919,0.178412,False
+obligacion,Western Europe,4,506,13,1.027,0.107919,0.178412,False
+posibilidad,Western Europe,4,506,13,1.027,0.107919,0.178412,False
+presencia,Western Europe,4,506,13,1.027,0.107919,0.178412,False
+sustitucion,Western Europe,4,506,13,1.027,0.107919,0.178412,False
+tecnica,Western Europe,4,506,13,1.027,0.107919,0.178412,False
+tragedia,Western Europe,4,506,13,1.027,0.107919,0.178412,False
+fantastico,Other/Unknown,4,213,30,0.965,0.107896,0.178412,False
+moral,Latin America,9,488,39,0.653,0.105879,0.178412,False
+traduccion,Latin America,14,488,66,0.536,0.105095,0.178412,False
+voz,Latin America,14,488,66,0.536,0.105095,0.178412,False
+humano,Western Europe,14,506,64,0.532,0.105721,0.178412,False
+superior,Western Europe,3,506,51,-0.87,0.105759,0.178412,False
+narrador,Western Europe,9,506,38,0.644,0.108719,0.179236,False
+sentido,Other/Unknown,9,213,87,0.634,0.108569,0.179236,False
+animal,Western Europe,6,506,21,0.907,0.109261,0.17963,False
+origen,Western Europe,6,506,21,0.907,0.109261,0.17963,False
+discurso,Other/Unknown,11,213,114,0.551,0.112098,0.184039,False
+vision,Latin America,12,488,55,0.575,0.114068,0.187015,False
+valor,Western Europe,8,506,31,0.76,0.117617,0.192567,False
+cielo,Other/Unknown,4,213,31,0.927,0.118256,0.192816,False
+trabajo,Other/Unknown,4,213,31,0.927,0.118256,0.192816,False
+destino,Western Europe,10,506,42,0.648,0.118074,0.192816,False
+censura,Western Europe,6,506,22,0.844,0.119502,0.194048,False
+memoria,Western Europe,6,506,22,0.844,0.119502,0.194048,False
+operacion,Western Europe,6,506,22,0.844,0.119502,0.194048,False
+eternidad,Other/Unknown,3,213,20,1.126,0.119989,0.194306,False
+plano,Other/Unknown,3,213,20,1.126,0.119989,0.194306,False
+comprension,Latin America,4,488,14,0.969,0.121572,0.194482,False
+compromiso,Latin America,4,488,14,0.969,0.121572,0.194482,False
+contemplacion,Latin America,4,488,14,0.969,0.121572,0.194482,False
+crisis,Latin America,4,488,14,0.969,0.121572,0.194482,False
+drama,Latin America,4,488,14,0.969,0.121572,0.194482,False
+institucion,Latin America,4,488,14,0.969,0.121572,0.194482,False
+practica,Latin America,4,488,14,0.969,0.121572,0.194482,False
+psicologico,Latin America,4,488,14,0.969,0.121572,0.194482,False
+teatro,Latin America,4,488,14,0.969,0.121572,0.194482,False
+acontecimiento,Latin America,6,488,23,0.827,0.122559,0.195534,False
+musica,Latin America,6,488,23,0.827,0.122559,0.195534,False
+vision,Western Europe,12,506,55,0.531,0.124507,0.198376,False
+palabra,Southern Europe / Classical,3,35,124,1.079,0.127204,0.202402,False
+pasion,Latin America,8,488,34,0.682,0.131108,0.208054,False
+punto,Latin America,8,488,34,0.682,0.131108,0.208054,False
+universo,Western Europe,6,506,23,0.785,0.132184,0.209204,False
+viaje,Western Europe,6,506,23,0.785,0.132184,0.209204,False
+absoluto,Other/Unknown,3,213,21,1.071,0.133987,0.209931,False
+enigma,Other/Unknown,3,213,21,1.071,0.133987,0.209931,False
+origen,Other/Unknown,3,213,21,1.071,0.133987,0.209931,False
+realismo,Other/Unknown,3,213,21,1.071,0.133987,0.209931,False
+complicidad,Western Europe,4,506,14,0.926,0.134529,0.209931,False
+crisis,Western Europe,4,506,14,0.926,0.134529,0.209931,False
+materialidad,Western Europe,4,506,14,0.926,0.134529,0.209931,False
+metonimia,Western Europe,4,506,14,0.926,0.134529,0.209931,False
+realista,Western Europe,4,506,14,0.926,0.134529,0.209931,False
+unico,Western Europe,4,506,14,0.926,0.134529,0.209931,False
+interpretacion,Latin America,10,488,46,0.574,0.134589,0.209931,False
+representacion,Latin America,6,488,24,0.772,0.135132,0.210501,False
+espiritu,Western Europe,13,506,60,0.521,0.136523,0.21239,False
+pasion,Western Europe,8,506,34,0.639,0.141822,0.220344,False
+imagen,Latin America,10,488,47,0.546,0.143049,0.22196,False
+censura,Other/Unknown,3,213,22,1.018,0.148518,0.227179,False
+memoria,Other/Unknown,3,213,22,1.018,0.148518,0.227179,False
+metafisico,Other/Unknown,3,213,22,1.018,0.148518,0.227179,False
+misterio,Other/Unknown,3,213,22,1.018,0.148518,0.227179,False
+fenomeno,Latin America,4,488,15,0.877,0.148336,0.227179,False
+perspectiva,Latin America,4,488,15,0.877,0.148336,0.227179,False
+psicoanalisis,Latin America,4,488,15,0.877,0.148336,0.227179,False
+repeticion,Latin America,4,488,15,0.877,0.148336,0.227179,False
+ilusion,Western Europe,6,506,24,0.729,0.14713,0.227179,False
+traicion,Western Europe,6,506,24,0.729,0.14713,0.227179,False
+ficcion,Other/Unknown,6,213,55,0.71,0.147554,0.227179,False
+estructura,Latin America,6,488,25,0.719,0.149776,0.228515,False
+personal,Latin America,6,488,25,0.719,0.149776,0.228515,False
+letra,Western Europe,8,506,35,0.602,0.15332,0.233322,False
+movimiento,Western Europe,8,506,35,0.602,0.15332,0.233322,False
+articulo,Latin America,3,488,10,1.053,0.15523,0.234724,False
+castellano,Latin America,3,488,10,1.053,0.15523,0.234724,False
+contexto,Latin America,3,488,10,1.053,0.15523,0.234724,False
+eterno,Latin America,3,488,10,1.053,0.15523,0.234724,False
+psicologia,Latin America,3,488,10,1.053,0.15523,0.234724,False
+secreto,Latin America,5,488,18,0.919,0.161428,0.243476,False
+testimonio,Latin America,5,488,18,0.919,0.161428,0.243476,False
+persecucion,Other/Unknown,3,213,23,0.967,0.163531,0.245847,False
+procedimiento,Other/Unknown,4,213,35,0.79,0.163622,0.245847,False
+hombre,Western Europe,14,506,68,0.455,0.163579,0.245847,False
+aleman,Western Europe,3,506,10,1.01,0.16818,0.24676,False
+apartado,Western Europe,3,506,10,1.01,0.16818,0.24676,False
+comentario,Western Europe,3,506,10,1.01,0.16818,0.24676,False
+democratico,Western Europe,3,506,10,1.01,0.16818,0.24676,False
+lucidez,Western Europe,3,506,10,1.01,0.16818,0.24676,False
+mortal,Western Europe,3,506,10,1.01,0.16818,0.24676,False
+nobleza,Western Europe,3,506,10,1.01,0.16818,0.24676,False
+partido,Western Europe,3,506,10,1.01,0.16818,0.24676,False
+positivo,Western Europe,3,506,10,1.01,0.16818,0.24676,False
+protagonista,Western Europe,3,506,10,1.01,0.16818,0.24676,False
+revelacion,Western Europe,3,506,10,1.01,0.16818,0.24676,False
+sensibilidad,Western Europe,3,506,10,1.01,0.16818,0.24676,False
+serie,Western Europe,3,506,10,1.01,0.16818,0.24676,False
+alegoer,Western Europe,5,506,18,0.877,0.167159,0.24676,False
+artista,Western Europe,5,506,18,0.877,0.167159,0.24676,False
+cuento,Western Europe,5,506,18,0.877,0.167159,0.24676,False
+escrito,Western Europe,5,506,18,0.877,0.167159,0.24676,False
+secreto,Western Europe,5,506,18,0.877,0.167159,0.24676,False
+moral,Western Europe,9,506,39,0.61,0.165056,0.24676,False
+social,Western Europe,14,506,69,0.436,0.169177,0.247918,False
+culpa,Latin America,5,488,19,0.847,0.172265,0.251202,False
+descripcion,Latin America,5,488,19,0.847,0.172265,0.251202,False
+ideal,Latin America,5,488,19,0.847,0.172265,0.251202,False
+vista,Latin America,5,488,19,0.847,0.172265,0.251202,False
+poeta,Latin America,9,488,42,0.558,0.177255,0.258162,False
+metodo,Other/Unknown,3,213,24,0.919,0.178973,0.260026,False
+representacion,Other/Unknown,3,213,24,0.919,0.178973,0.260026,False
+metafora,Other/Unknown,5,213,42,0.82,0.180334,0.261363,False
+poeta,Other/Unknown,5,213,42,0.82,0.180334,0.261363,False
+eternidad,Latin America,5,488,20,0.78,0.186195,0.2692,False
+logica,Latin America,5,488,20,0.78,0.186195,0.2692,False
+poesia,North America,3,51,102,0.881,0.187366,0.270563,False
+campo,Latin America,7,488,31,0.634,0.188746,0.271894,False
+valor,Latin America,7,488,31,0.634,0.188746,0.271894,False
+confesion,Latin America,3,488,11,0.927,0.192364,0.274113,False
+costumbre,Latin America,3,488,11,0.927,0.192364,0.274113,False
+discursivo,Latin America,3,488,11,0.927,0.192364,0.274113,False
+fidelidad,Latin America,3,488,11,0.927,0.192364,0.274113,False
+investigacion,Latin America,3,488,11,0.927,0.192364,0.274113,False
+jurisprudencia,Latin America,3,488,11,0.927,0.192364,0.274113,False
+medida,Latin America,3,488,11,0.927,0.192364,0.274113,False
+mistico,Latin America,3,488,11,0.927,0.192364,0.274113,False
+caracter,Western Europe,9,506,42,0.515,0.190791,0.274113,False
+practico,Other/Unknown,3,213,25,0.874,0.194795,0.277244,False
+fuerza,Latin America,3,488,46,-0.717,0.196756,0.2797,False
+hecho,Western Europe,3,506,45,-0.736,0.197556,0.280501,False
+experiencia,Western Europe,7,506,31,0.591,0.201047,0.285117,False
+mental,Latin America,5,488,21,0.717,0.202883,0.286693,False
+nacion,Latin America,5,488,21,0.717,0.202883,0.286693,False
+signo,Latin America,5,488,21,0.717,0.202883,0.286693,False
+cambio,Western Europe,3,506,11,0.885,0.207629,0.289607,False
+cao,Western Europe,3,506,11,0.885,0.207629,0.289607,False
+costumbre,Western Europe,3,506,11,0.885,0.207629,0.289607,False
+discontinuidad,Western Europe,3,506,11,0.885,0.207629,0.289607,False
+discursivo,Western Europe,3,506,11,0.885,0.207629,0.289607,False
+enunciar,Western Europe,3,506,11,0.885,0.207629,0.289607,False
+fantasma,Western Europe,3,506,11,0.885,0.207629,0.289607,False
+fragmentacion,Western Europe,3,506,11,0.885,0.207629,0.289607,False
+gesto,Western Europe,3,506,11,0.885,0.207629,0.289607,False
+policial,Western Europe,3,506,11,0.885,0.207629,0.289607,False
+reflexion,Western Europe,3,506,11,0.885,0.207629,0.289607,False
+efecto,Other/Unknown,3,213,26,0.83,0.210945,0.291832,False
+esperanza,Other/Unknown,3,213,26,0.83,0.210945,0.291832,False
+mujer,Other/Unknown,3,213,26,0.83,0.210945,0.291832,False
+presente,Other/Unknown,3,213,26,0.83,0.210945,0.291832,False
+soledad,Other/Unknown,3,213,26,0.83,0.210945,0.291832,False
+territorio,Other/Unknown,3,213,26,0.83,0.210945,0.291832,False
+tiempo,Eastern Europe,3,53,104,0.819,0.210407,0.291832,False
+muerto,Western Europe,7,506,32,0.551,0.215199,0.29737,False
+relato,Western Europe,17,506,87,0.386,0.2158,0.297855,False
+nostalgia,Western Europe,5,506,21,0.675,0.216617,0.298288,False
+sendero,Western Europe,5,506,21,0.675,0.216617,0.298288,False
+genero,Other/Unknown,7,213,74,0.542,0.217518,0.299181,False
+sueno,Western Europe,13,506,66,0.4,0.219789,0.301955,False
+censura,Latin America,5,488,22,0.658,0.221999,0.304639,False
+critica,Other/Unknown,5,213,49,0.646,0.222566,0.305065,False
+ideologia,Other/Unknown,3,213,27,0.788,0.227377,0.310583,False
+objeto,Other/Unknown,3,213,27,0.788,0.227377,0.310583,False
+simbolo,Other/Unknown,3,213,27,0.788,0.227377,0.310583,False
+obra,Latin America,10,488,51,0.444,0.227669,0.310625,False
+ciencia,Latin America,8,488,37,0.574,0.228205,0.310999,False
+diferencia,Latin America,3,488,12,0.816,0.231397,0.313548,False
+empresa,Latin America,3,488,12,0.816,0.231397,0.313548,False
+humanismo,Latin America,3,488,12,0.816,0.231397,0.313548,False
+odio,Latin America,3,488,12,0.816,0.231397,0.313548,False
+significacion,Latin America,3,488,12,0.816,0.231397,0.313548,False
+palabra,Latin America,22,488,124,0.306,0.235389,0.318594,False
+naturaleza,Western Europe,8,506,37,0.531,0.237568,0.321177,False
+enunciacion,Other/Unknown,5,213,51,0.602,0.238789,0.322461,False
+muerte,Other/Unknown,14,213,166,0.394,0.242297,0.326825,False
+locura,Western Europe,6,506,25,0.676,0.247015,0.332434,False
+personal,Western Europe,6,506,25,0.676,0.247015,0.332434,False
+cristiano,Western Europe,8,506,38,0.497,0.24778,0.333086,False
+razon,Latin America,6,488,26,0.668,0.248895,0.334206,False
+imaginario,Western Europe,6,506,26,0.625,0.256629,0.344201,False
+objeto,Latin America,6,488,27,0.62,0.25825,0.345984,False
+espiritu,Latin America,5,488,60,-0.509,0.259982,0.347913,False
+muerte,Western Europe,29,506,166,0.241,0.261173,0.349113,False
+lector,Western Europe,3,506,40,-0.609,0.261871,0.349653,False
+construccion,Latin America,4,488,16,0.794,0.265493,0.353296,False
+internacional,Latin America,4,488,16,0.794,0.265493,0.353296,False
+romantico,Latin America,4,488,16,0.794,0.265493,0.353296,False
+vida,Western Europe,8,506,82,-0.411,0.26677,0.354598,False
+argentino,Other/Unknown,6,213,60,0.612,0.267361,0.354986,False
+existencia,Western Europe,6,506,27,0.578,0.268874,0.356597,False
+abismo,Western Europe,4,506,16,0.751,0.274649,0.361428,False
+comunicacion,Western Europe,4,506,16,0.751,0.274649,0.361428,False
+corrupcion,Western Europe,4,506,16,0.751,0.274649,0.361428,False
+diario,Western Europe,4,506,16,0.751,0.274649,0.361428,False
+elemento,Western Europe,4,506,16,0.751,0.274649,0.361428,False
+internacional,Western Europe,4,506,16,0.751,0.274649,0.361428,False
+materia,Western Europe,4,506,16,0.751,0.274649,0.361428,False
+error,Other/Unknown,4,213,36,0.759,0.277263,0.364465,False
+ciencia,Other/Unknown,4,213,37,0.728,0.283495,0.371422,False
+normal,Latin America,4,488,17,0.716,0.28349,0.371422,False
+narrativo,Western Europe,6,506,28,0.532,0.283476,0.371422,False
+figura,Latin America,6,488,29,0.531,0.283998,0.371671,False
+dolor,Western Europe,6,506,66,-0.47,0.28796,0.376441,False
+antiguo,Western Europe,4,506,17,0.674,0.295479,0.384577,False
+cosa,Western Europe,4,506,17,0.674,0.295479,0.384577,False
+imposible,Western Europe,4,506,17,0.674,0.295479,0.384577,False
+particular,Western Europe,4,506,17,0.674,0.295479,0.384577,False
+juego,Latin America,6,488,30,0.489,0.2999,0.389476,False
+recordar,Latin America,6,488,30,0.489,0.2999,0.389476,False
+conciencia,Other/Unknown,6,213,67,0.489,0.301117,0.390629,False
+artista,Latin America,4,488,18,0.645,0.304595,0.39471,False
+lector,Other/Unknown,4,213,40,0.642,0.30598,0.39521,False
+narracion,Other/Unknown,4,213,40,0.642,0.30598,0.39521,False
+pueblo,Other/Unknown,4,213,40,0.642,0.30598,0.39521,False
+enunciacion,Western Europe,10,506,51,0.401,0.315092,0.406537,False
+ingles,Western Europe,4,506,18,0.602,0.319262,0.41147,False
+acto,Other/Unknown,4,213,42,0.588,0.323665,0.416658,False
+comun,Latin America,7,488,35,0.481,0.32399,0.416658,False
+verosimilitud,Latin America,4,488,19,0.578,0.328227,0.421652,False
+cuerpo,Other/Unknown,10,213,122,0.368,0.333335,0.42775,False
+filosofia,Latin America,7,488,36,0.446,0.334578,0.428882,False
+texto,Other/Unknown,7,213,79,0.469,0.335208,0.429226,False
+nombre,Latin America,7,488,37,0.413,0.346877,0.443689,False
+error,Western Europe,7,506,36,0.404,0.350276,0.447073,False
+olvido,Western Europe,7,506,36,0.404,0.350276,0.447073,False
+cristiano,Latin America,3,488,38,-0.511,0.352359,0.449248,False
+critico,Western Europe,5,506,22,0.616,0.355466,0.452723,False
+narracion,Western Europe,8,506,40,0.433,0.363043,0.461383,False
+politica,Western Europe,8,506,40,0.433,0.363043,0.461383,False
+humano,Latin America,6,488,64,-0.393,0.363489,0.461456,False
+etico,Other/Unknown,4,213,46,0.487,0.363968,0.461571,False
+caracter,Latin America,8,488,42,0.415,0.367968,0.465648,False
+funcion,Latin America,8,488,42,0.415,0.367968,0.465648,False
+natural,Latin America,5,488,24,0.549,0.369539,0.466641,False
+traicion,Latin America,5,488,24,0.549,0.369539,0.466641,False
+militar,Other/Unknown,3,213,90,-0.505,0.371353,0.468434,False
+dialogo,Western Europe,5,506,24,0.507,0.380441,0.478879,False
+acto,Western Europe,8,506,42,0.372,0.38037,0.478879,False
+sangre,Western Europe,4,506,44,-0.434,0.391719,0.492553,False
+azul,Western Europe,4,506,45,-0.459,0.393347,0.494077,False
+genero,Latin America,13,488,74,0.301,0.395928,0.496793,False
+dignidad,Western Europe,3,506,12,0.773,0.399753,0.498956,False
+madera,Western Europe,3,506,12,0.773,0.399753,0.498956,False
+retorica,Western Europe,3,506,12,0.773,0.399753,0.498956,False
+ritmo,Western Europe,3,506,12,0.773,0.399753,0.498956,False
+suicidio,Western Europe,3,506,12,0.773,0.399753,0.498956,False
+orden,Latin America,17,488,151,-0.239,0.4009,0.499862,False
+intencion,Latin America,3,488,13,0.715,0.411096,0.510964,False
+liberacion,Latin America,3,488,13,0.715,0.411096,0.510964,False
+posibilidad,Latin America,3,488,13,0.715,0.411096,0.510964,False
+ausencia,Other/Unknown,3,213,29,0.709,0.419478,0.518757,False
+democracia,Western Europe,3,506,13,0.673,0.419988,0.518757,False
+desesperacion,Western Europe,3,506,13,0.673,0.419988,0.518757,False
+miserio,Western Europe,3,506,13,0.673,0.419988,0.518757,False
+retrato,Western Europe,3,506,13,0.673,0.419988,0.518757,False
+traductor,Western Europe,3,506,13,0.673,0.419988,0.518757,False
+lugar,Other/Unknown,5,213,61,0.404,0.420997,0.519463,False
+recordar,Other/Unknown,3,213,30,0.671,0.426679,0.525928,False
+gobierno,Latin America,3,488,14,0.624,0.432388,0.529118,False
+honor,Latin America,3,488,14,0.624,0.432388,0.529118,False
+masculino,Latin America,3,488,14,0.624,0.432388,0.529118,False
+organizacion,Latin America,3,488,14,0.624,0.432388,0.529118,False
+progreso,Latin America,3,488,14,0.624,0.432388,0.529118,False
+sacrificio,Latin America,3,488,14,0.624,0.432388,0.529118,False
+cuerpo,Western Europe,21,506,122,0.225,0.431908,0.529118,False
+conocimiento,Latin America,6,488,32,0.409,0.440548,0.538548,False
+libro,Western Europe,6,506,31,0.406,0.441032,0.538585,False
+compromiso,Western Europe,3,506,14,0.582,0.443866,0.538721,False
+doctrina,Western Europe,3,506,14,0.582,0.443866,0.538721,False
+intimidad,Western Europe,3,506,14,0.582,0.443866,0.538721,False
+monologo,Western Europe,3,506,14,0.582,0.443866,0.538721,False
+peregrinar,Western Europe,3,506,14,0.582,0.443866,0.538721,False
+voracidad,Western Europe,3,506,14,0.582,0.443866,0.538721,False
+silencio,Western Europe,6,506,58,-0.326,0.453998,0.550456,False
+cadena,Latin America,3,488,15,0.54,0.456575,0.551889,False
+inocencia,Latin America,3,488,15,0.54,0.456575,0.551889,False
+necesidad,Latin America,3,488,15,0.54,0.456575,0.551889,False
+pasion,Other/Unknown,3,213,34,0.534,0.461815,0.557654,False
+principio,Western Europe,3,506,34,-0.433,0.465861,0.561969,False
+justicia,Western Europe,3,506,35,-0.464,0.468141,0.563573,False
+voluntad,Western Europe,3,506,35,-0.464,0.468141,0.563573,False
+ambiguedad,Western Europe,3,506,15,0.498,0.47037,0.564539,False
+copia,Western Europe,3,506,15,0.498,0.47037,0.564539,False
+solitario,Western Europe,3,506,15,0.498,0.47037,0.564539,False
+hijo,Other/Unknown,3,213,35,0.503,0.471833,0.565152,False
+movimiento,Other/Unknown,3,213,35,0.503,0.471833,0.565152,False
+memorio,Western Europe,11,506,63,0.255,0.472991,0.565968,False
+filosofia,Other/Unknown,3,213,36,0.472,0.482219,0.576429,False
+color,Latin America,3,488,16,0.463,0.482816,0.576562,False
+derecho,Other/Unknown,3,213,80,-0.38,0.483658,0.576987,False
+mirada,Latin America,7,488,39,0.349,0.484549,0.57747,False
+muerte,Latin America,20,488,166,-0.164,0.493947,0.58808,False
+noche,Western Europe,8,506,72,-0.263,0.500102,0.594811,False
+luz,Other/Unknown,3,213,38,0.414,0.50388,0.598106,False
+narrador,Other/Unknown,3,213,38,0.414,0.50388,0.598106,False
+ideal,Western Europe,4,506,19,0.535,0.50793,0.598722,False
+malo,Western Europe,4,506,19,0.535,0.50793,0.598722,False
+papel,Western Europe,4,506,19,0.535,0.50793,0.598722,False
+piedra,Western Europe,4,506,19,0.535,0.50793,0.598722,False
+proceso,Western Europe,4,506,19,0.535,0.50793,0.598722,False
+ritual,Western Europe,4,506,19,0.535,0.50793,0.598722,False
+verso,Western Europe,4,506,19,0.535,0.50793,0.598722,False
+disposicion,Latin America,4,488,20,0.515,0.511965,0.599312,False
+enemigo,Latin America,4,488,20,0.515,0.511965,0.599312,False
+frances,Latin America,4,488,20,0.515,0.511965,0.599312,False
+maquina,Latin America,4,488,20,0.515,0.511965,0.599312,False
+negro,Latin America,4,488,20,0.515,0.511965,0.599312,False
+plano,Latin America,4,488,20,0.515,0.511965,0.599312,False
+guerra,Other/Unknown,7,213,93,0.288,0.510757,0.599312,False
+hecho,Latin America,8,488,45,0.331,0.514132,0.601256,False
+politico,North America,3,51,163,0.384,0.51599,0.602835,False
+eternidad,Western Europe,4,506,20,0.472,0.519379,0.603232,False
+frase,Western Europe,4,506,20,0.472,0.519379,0.603232,False
+linea,Western Europe,4,506,20,0.472,0.519379,0.603232,False
+maquina,Western Europe,4,506,20,0.472,0.519379,0.603232,False
+referencia,Western Europe,4,506,20,0.472,0.519379,0.603232,False
+terror,Western Europe,4,506,20,0.472,0.519379,0.603232,False
+vida,Latin America,9,488,82,-0.241,0.520219,0.603616,False
+absoluto,Latin America,4,488,21,0.456,0.523609,0.604008,False
+convencion,Latin America,4,488,21,0.456,0.523609,0.604008,False
+delirio,Latin America,4,488,21,0.456,0.523609,0.604008,False
+general,Latin America,4,488,21,0.456,0.523609,0.604008,False
+oficial,Latin America,4,488,21,0.456,0.523609,0.604008,False
+origen,Latin America,4,488,21,0.456,0.523609,0.604008,False
+convencion,Western Europe,4,506,21,0.413,0.53342,0.61235,False
+delirio,Western Europe,4,506,21,0.413,0.53342,0.61235,False
+dominio,Western Europe,4,506,21,0.413,0.53342,0.61235,False
+mental,Western Europe,4,506,21,0.413,0.53342,0.61235,False
+signo,Western Europe,4,506,21,0.413,0.53342,0.61235,False
+material,Latin America,4,488,22,0.4,0.53754,0.616483,False
+material,Western Europe,4,506,22,0.357,0.549563,0.629664,False
+limite,Latin America,4,488,23,0.347,0.553328,0.632557,False
+raza,Latin America,4,488,23,0.347,0.553328,0.632557,False
+debido,Latin America,9,488,54,0.248,0.553687,0.632557,False
+efecto,Western Europe,5,506,26,0.408,0.572742,0.651817,False
+juicio,Western Europe,5,506,26,0.408,0.572742,0.651817,False
+mujer,Western Europe,5,506,26,0.408,0.572742,0.651817,False
+territorio,Western Europe,5,506,26,0.408,0.572742,0.651817,False
+angustiar,Western Europe,5,506,28,0.319,0.590151,0.669593,False
+escena,Western Europe,5,506,28,0.319,0.590151,0.669593,False
+forma,Western Europe,5,506,28,0.319,0.590151,0.669593,False
+simbolico,Latin America,5,488,29,0.319,0.590618,0.669593,False
+blanco,Latin America,5,488,30,0.279,0.601312,0.680417,False
+condicion,Latin America,5,488,30,0.279,0.601312,0.680417,False
+conciencia,Western Europe,11,506,67,0.18,0.60264,0.68127,False
+hombre,Other/Unknown,5,213,68,0.285,0.607592,0.686215,False
+blanco,Western Europe,3,506,30,-0.296,0.610042,0.687556,False
+juego,Western Europe,3,506,30,-0.296,0.610042,0.687556,False
+publico,Western Europe,3,506,31,-0.332,0.610517,0.687556,False
+tierra,Western Europe,3,506,32,-0.367,0.612924,0.689612,False
+movimiento,Latin America,6,488,35,0.301,0.622199,0.699384,False
+comun,Western Europe,6,506,35,0.258,0.630141,0.707642,False
+juridico,Western Europe,4,506,38,-0.272,0.644601,0.722513,False
+luz,Western Europe,4,506,38,-0.272,0.644601,0.722513,False
+militar,Latin America,14,488,90,0.151,0.645241,0.722549,False
+destino,Latin America,7,488,42,0.259,0.652906,0.730443,False
+accion,Western Europe,7,506,43,0.188,0.667034,0.745545,False
+esencia,Latin America,5,488,47,-0.237,0.67224,0.750657,False
+pensamiento,Latin America,6,488,54,-0.202,0.693017,0.773131,False
+silencio,Latin America,9,488,58,0.163,0.703675,0.784284,False
+armonir,Western Europe,3,506,16,0.421,0.718405,0.794599,False
+comienzo,Western Europe,3,506,16,0.421,0.718405,0.794599,False
+familiar,Western Europe,3,506,16,0.421,0.718405,0.794599,False
+felicidad,Western Europe,3,506,16,0.421,0.718405,0.794599,False
+opinion,Western Europe,3,506,16,0.421,0.718405,0.794599,False
+tecnico,Western Europe,3,506,16,0.421,0.718405,0.794599,False
+caballo,Latin America,3,488,17,0.391,0.722302,0.794599,False
+circunstancia,Latin America,3,488,17,0.391,0.722302,0.794599,False
+conducta,Latin America,3,488,17,0.391,0.722302,0.794599,False
+cosa,Latin America,3,488,17,0.391,0.722302,0.794599,False
+moderno,Latin America,3,488,17,0.391,0.722302,0.794599,False
+paisaje,Latin America,3,488,17,0.391,0.722302,0.794599,False
+particular,Latin America,3,488,17,0.391,0.722302,0.794599,False
+extranjero,Western Europe,10,506,63,0.143,0.719408,0.794599,False
+caballo,Western Europe,3,506,17,0.349,0.727346,0.796458,False
+conducta,Western Europe,3,506,17,0.349,0.727346,0.796458,False
+fijo,Western Europe,3,506,17,0.349,0.727346,0.796458,False
+hermano,Western Europe,3,506,17,0.349,0.727346,0.796458,False
+pobre,Western Europe,3,506,17,0.349,0.727346,0.796458,False
+ciego,Latin America,3,488,18,0.324,0.731484,0.798044,False
+escrito,Latin America,3,488,18,0.324,0.731484,0.798044,False
+generacion,Latin America,3,488,18,0.324,0.731484,0.798044,False
+religion,Latin America,3,488,18,0.324,0.731484,0.798044,False
+politica,Other/Unknown,3,213,40,0.358,0.733948,0.799997,False
+escritor,Other/Unknown,3,213,41,0.331,0.73748,0.801424,False
+jardin,Western Europe,3,506,18,0.282,0.737958,0.801424,False
+placer,Western Europe,3,506,18,0.282,0.737958,0.801424,False
+testimonio,Western Europe,3,506,18,0.282,0.737958,0.801424,False
+muerte,Eastern Europe,3,53,166,0.324,0.739542,0.80241,False
+destino,Other/Unknown,3,213,42,0.306,0.741286,0.803568,False
+culpa,Western Europe,3,506,19,0.219,0.749815,0.811331,False
+verosimilitud,Western Europe,3,506,19,0.219,0.749815,0.811331,False
+agua,Latin America,3,488,20,0.202,0.753703,0.813314,False
+distancia,Latin America,3,488,20,0.202,0.753703,0.813314,False
+linea,Latin America,3,488,20,0.202,0.753703,0.813314,False
+interpretacion,Other/Unknown,3,213,46,0.208,0.758706,0.817969,False
+guerra,Latin America,14,488,93,0.112,0.762117,0.820901,False
+espanol,Western Europe,4,506,23,0.304,0.764376,0.821099,False
+interes,Western Europe,4,506,23,0.304,0.764376,0.821099,False
+pais,Western Europe,4,506,23,0.304,0.764376,0.821099,False
+clase,Western Europe,4,506,24,0.254,0.769942,0.825584,False
+verbo,Western Europe,4,506,24,0.254,0.769942,0.825584,False
+posicion,Western Europe,4,506,25,0.206,0.776664,0.83204,False
+mujer,Latin America,4,488,26,0.203,0.777629,0.832322,False
+sociedad,Other/Unknown,4,213,58,0.235,0.779419,0.833487,False
+razon,Western Europe,4,506,26,0.16,0.784332,0.837232,False
+soledad,Western Europe,4,506,26,0.16,0.784332,0.837232,False
+experiencia,Latin America,5,488,31,0.24,0.793434,0.843157,False
+libro,Latin America,5,488,31,0.24,0.793434,0.843157,False
+publico,Latin America,5,488,31,0.24,0.793434,0.843157,False
+recordar,Western Europe,5,506,30,0.236,0.793277,0.843157,False
+extranjero,Other/Unknown,4,213,63,0.146,0.793287,0.843157,False
+humano,Other/Unknown,4,213,64,0.129,0.796466,0.844987,False
+traduccion,Other/Unknown,3,213,66,-0.177,0.79658,0.844987,False
+social,Other/Unknown,3,213,69,-0.224,0.798182,0.84593,False
+autoridad,Latin America,5,488,33,0.167,0.801553,0.848492,False
+conocimiento,Western Europe,5,506,32,0.16,0.802029,0.848492,False
+principio,Latin America,5,488,34,0.132,0.80671,0.852685,False
+eximente,Latin America,4,488,35,-0.137,0.809743,0.853954,False
+voluntad,Latin America,4,488,35,-0.137,0.809743,0.853954,False
+tortura,Latin America,4,488,36,-0.169,0.810069,0.853954,False
+recurso,Latin America,4,488,37,-0.199,0.811227,0.854415,False
+nombre,Western Europe,6,506,37,0.192,0.813577,0.856131,False
+lenguaje,Other/Unknown,6,213,93,0.129,0.826139,0.86792,False
+sangre,Latin America,5,488,44,-0.163,0.826659,0.86792,False
+codigo,Western Europe,5,506,43,-0.18,0.826973,0.86792,False
+hombre,Latin America,10,488,68,0.095,0.859911,0.901259,False
+voz,Western Europe,10,506,66,0.087,0.860258,0.901259,False
+politico,Other/Unknown,9,213,163,-0.067,0.867732,0.908287,False
+poesia,Latin America,13,488,102,-0.084,0.884725,0.925259,False
+distancia,Western Europe,3,506,20,0.16,1.0,1.0,False
+enemigo,Western Europe,3,506,20,0.16,1.0,1.0,False
+logica,Western Europe,3,506,20,0.16,1.0,1.0,False
+animal,Latin America,3,488,21,0.146,1.0,1.0,False
+dominio,Latin America,3,488,21,0.146,1.0,1.0,False
+plenitud,Latin America,3,488,21,0.146,1.0,1.0,False
+personaje,Other/Unknown,3,213,49,0.14,1.0,1.0,False
+ciudad,Western Europe,4,506,27,0.116,1.0,1.0,False
+interior,Western Europe,4,506,27,0.116,1.0,1.0,False
+pecado,Western Europe,4,506,27,0.116,1.0,1.0,False
+absoluto,Western Europe,3,506,21,0.104,1.0,1.0,False
+padre,Western Europe,3,506,21,0.104,1.0,1.0,False
+sueno,Other/Unknown,4,213,66,0.096,1.0,1.0,False
+carta,Latin America,3,488,22,0.093,1.0,1.0,False
+causa,Latin America,3,488,22,0.093,1.0,1.0,False
+operacion,Latin America,3,488,22,0.093,1.0,1.0,False
+persona,Latin America,3,488,22,0.093,1.0,1.0,False
+aurora,Western Europe,5,506,34,0.089,1.0,1.0,False
+alma,Other/Unknown,5,213,82,0.081,1.0,1.0,False
+amor,Other/Unknown,3,213,52,0.077,1.0,1.0,False
+desierto,Western Europe,4,506,28,0.074,1.0,1.0,False
+accion,Latin America,6,488,43,0.059,1.0,1.0,False
+crimen,Western Europe,5,506,35,0.056,1.0,1.0,False
+atroz,Latin America,3,488,23,0.043,1.0,1.0,False
+espanol,Latin America,3,488,23,0.043,1.0,1.0,False
+poesia,Other/Unknown,6,213,102,0.028,1.0,1.0,False
+ley,Latin America,19,488,135,0.024,1.0,1.0,False
+obediencia,Latin America,17,488,122,0.014,1.0,1.0,False
+amor,Latin America,7,488,52,0.008,1.0,1.0,False
+juridico,Latin America,5,488,38,0.004,1.0,1.0,False
+luz,Latin America,5,488,38,0.004,1.0,1.0,False
+violencia,Latin America,5,488,38,0.004,1.0,1.0,False
+cine,Latin America,4,488,31,0.0,1.0,1.0,False
+deber,Latin America,4,488,31,0.0,1.0,1.0,False
+oscuridad,Western Europe,3,506,23,0.0,1.0,1.0,False
+trabajo,Latin America,4,488,31,0.0,1.0,1.0,False
+condicion,Western Europe,4,506,30,-0.005,1.0,1.0,False
+religioso,Latin America,3,488,24,-0.005,1.0,1.0,False
+amor,Western Europe,7,506,52,-0.035,1.0,1.0,False
+relacion,Western Europe,7,506,52,-0.035,1.0,1.0,False
+muerto,Latin America,4,488,32,-0.036,1.0,1.0,False
+violencia,Western Europe,5,506,38,-0.039,1.0,1.0,False
+cielo,Western Europe,4,506,31,-0.042,1.0,1.0,False
+belleza,Western Europe,3,506,24,-0.047,1.0,1.0,False
+humanidad,Western Europe,3,506,24,-0.047,1.0,1.0,False
+locura,Latin America,3,488,25,-0.051,1.0,1.0,False
+practico,Latin America,3,488,25,-0.051,1.0,1.0,False
+pueblo,Latin America,5,488,40,-0.055,1.0,1.0,False
+fuerza,Western Europe,6,506,46,-0.062,1.0,1.0,False
+esperanza,Latin America,3,488,26,-0.095,1.0,1.0,False
+soledad,Latin America,3,488,26,-0.095,1.0,1.0,False
+ciudad,Latin America,3,488,27,-0.137,1.0,1.0,False

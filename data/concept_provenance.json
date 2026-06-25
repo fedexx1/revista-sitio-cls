@@ -1,0 +1,12 @@
+{
+  "models": {
+    "sonnet": "anthropic/claude-sonnet-4-5"
+  },
+  "temperature": 0.0,
+  "n_paragraphs": 39,
+  "n_inventory_concepts": 31,
+  "dspy_version": "3.0.4",
+  "litellm_version": "1.80.11",
+  "date_utc": "2026-06-01T17:06:02.128846+00:00",
+  "note": "Closed-set predictions scored vs gold ana_* per paragraph; outputs frozen by data/concept_cache content-hash cache."
+}

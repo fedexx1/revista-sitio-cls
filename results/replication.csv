@@ -1,0 +1,15 @@
+﻿model,test,delta,delta_strat,n_A,null_band
+qwen3,persName sanity,0.852,,,
+qwen3,probe: baseline (BLANCHOT_SEEDS),0.429,0.425,665.0,
+qwen3,probe: core — discovered only,0.408,0.407,313.0,
+qwen3,probe: core — discovered + manual,0.392,0.394,359.0,
+qwen3,probe: core + shared,0.452,0.448,731.0,
+qwen3,permutation null (5 runs),-0.019,,,"[-0.050, +0.008]"
+bge-m3,persName sanity,0.706,,,
+bge-m3,probe: baseline (BLANCHOT_SEEDS),0.3,0.294,665.0,
+bge-m3,probe: core — discovered only,0.289,0.289,313.0,
+bge-m3,probe: core — discovered + manual,0.275,0.278,359.0,
+bge-m3,probe: core + shared,0.322,0.32,731.0,
+bge-m3,permutation null (5 runs),-0.012,,,"[-0.048, +0.017]"
+qwen3,SP3 E-recovery (741 pairs),0.4771,,,"z=5.591, p=0.0"
+bge-m3,SP3 E-recovery (741 pairs),0.3839,,,"z=4.374, p=0.0"

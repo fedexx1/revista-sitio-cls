@@ -1,0 +1,77 @@
+{
+  "core_discovered": [
+    "ausencia",
+    "ausente",
+    "ausentes",
+    "erraba",
+    "errancia",
+    "errar",
+    "imposible",
+    "imposibles",
+    "olvido",
+    "olvidos",
+    "silencio",
+    "silencios",
+    "soledad",
+    "soledades"
+  ],
+  "core_manual": [
+    "afuera",
+    "afueras",
+    "dehors",
+    "neutra",
+    "neutro"
+  ],
+  "core": [
+    "afuera",
+    "afueras",
+    "ausencia",
+    "ausente",
+    "ausentes",
+    "dehors",
+    "erraba",
+    "errancia",
+    "errar",
+    "imposible",
+    "imposibles",
+    "neutra",
+    "neutro",
+    "olvido",
+    "olvidos",
+    "silencio",
+    "silencios",
+    "soledad",
+    "soledades"
+  ],
+  "shared": [
+    "escritura",
+    "escrituras",
+    "espacio",
+    "espacios",
+    "lectura",
+    "lecturas",
+    "muerte",
+    "muertes"
+  ],
+  "manual_core_terms": [
+    "afuera",
+    "dehors",
+    "neutro"
+  ],
+  "core_lemmas": [
+    "ausencia",
+    "ausente",
+    "errancia",
+    "errar",
+    "imposible",
+    "olvido",
+    "silencio",
+    "soledad"
+  ],
+  "shared_lemmas": [
+    "escritura",
+    "espacio",
+    "lectura",
+    "muerte"
+  ]
+}

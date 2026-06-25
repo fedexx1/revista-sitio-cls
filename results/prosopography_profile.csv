@@ -1,0 +1,24 @@
+﻿dim,bucket,n_figures,n_paras
+period,Antiquity (Archaic),11,15
+period,Classical Antiquity,18,27
+period,Hellenistic/Roman,24,96
+period,Medieval,18,21
+period,Renaissance,43,66
+period,Early Modern,64,89
+period,Revolutionary Era,105,242
+period,Long 19th Century,243,494
+period,World Wars Era,185,312
+period,Contemporary,16,47
+period,Unknown,22,33
+region,Asia,2,2
+region,Eastern Europe,28,53
+region,Latin America,199,488
+region,Middle East,5,6
+region,North America,39,51
+region,Other/Unknown,71,213
+region,Scandinavia,4,6
+region,Southern Europe / Classical,24,35
+region,Western Europe,377,506
+origin,Argentine,166,438
+origin,Foreign,562,686
+origin,Unknown origin,21,31

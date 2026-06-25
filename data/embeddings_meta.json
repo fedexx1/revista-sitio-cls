@@ -1,0 +1,10 @@
+{
+  "model_id": "Qwen/Qwen3-Embedding-8B",
+  "gpu_type": "L40S",
+  "dim": 4096,
+  "dtype": "float32",
+  "n_paragraphs": 3476,
+  "elapsed_s": 144.64,
+  "date_utc": "2026-06-01T14:30:18.969341+00:00",
+  "text_sha256": "70b281b8f8d581d38f005b21280dc145c7cf9175eb2162cb63324952eaeb2f13"
+}

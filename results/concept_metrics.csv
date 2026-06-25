@@ -1,0 +1,2 @@
+﻿model,model_id,closed_tp,closed_fp,closed_fn,closed_micro_precision,closed_micro_recall,closed_micro_f1,mean_labels_predicted,mean_gold_labels,mean_open_concepts
+sonnet,anthropic/claude-sonnet-4-5,62,194,9,0.242,0.873,0.379,6.56,1.82,8.21

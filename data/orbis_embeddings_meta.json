@@ -1,0 +1,7 @@
+{
+  "model_id": "Qwen/Qwen3-Embedding-8B",
+  "dim": 4096,
+  "n_paragraphs": 8000,
+  "text_sha256": "d086741332de2f111984ec247698c70dc2a4e94a9853a0eaae6e606d574f48e9",
+  "date_utc": "2026-06-10T11:59:22.987553+00:00"
+}

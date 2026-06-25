@@ -1,0 +1,2 @@
+# Large embedding matrices are tracked with Git LFS (install: https://git-lfs.com)
+data/*.npy filter=lfs diff=lfs merge=lfs -text

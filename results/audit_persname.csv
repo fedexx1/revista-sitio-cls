@@ -1,0 +1,2 @@
+n_shared_pairs,n_baseline_pairs,median_shared,iqr_shared_low,iqr_shared_high,median_baseline,iqr_baseline_low,iqr_baseline_high,cliffs_delta,mw_u,mw_p
+13574,50000,0.4458540380001068,0.38351762294769287,0.5189710855484009,0.26559603214263916,0.21337345242500305,0.32175785303115845,0.852104983055842,628511826.0,0.0

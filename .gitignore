@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Rebuilt locally from the public TEI edition by src/parse.py — do NOT commit
+# (these contain or derive directly from the raw journal text, which lives in
+#  the TEI edition repo, not here). See REPRODUCE.md.
+data/paragraphs.parquet
+data/concepts.json
+data/persons.csv
+data/note_stats.json
+
+# Bulk LLM caches (rebuildable; large)
+data/concept_cache/
+data/discovery_cache/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/

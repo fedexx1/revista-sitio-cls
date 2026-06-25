@@ -1,0 +1,16 @@
+# Core — analysis + TEI parsing (everything in REPRODUCE.md steps 1–3 runs with these)
+numpy
+pandas
+pyarrow          # parquet engine for pandas.read_parquet
+scipy
+matplotlib
+lxml             # TEI XML parsing (parse.py)
+
+# Optional — only needed to REGENERATE the shipped frozen artifacts from raw text:
+#   embeddings (GPU, via Modal)         -> embed.py
+#   concept layer / §6 extraction (LLM) -> concept_layer.py, concept_extract.py, run_exhibit.py
+# Uncomment if you intend to rebuild these rather than use the shipped derived data.
+# modal
+# dspy-ai
+# python-dotenv
+# pydantic
