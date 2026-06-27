@@ -34,6 +34,13 @@ data/       frozen derived inputs — embedding vectors (.npy, Git LFS), concept
 results/    computed tables and figures behind every claim in the paper
 ```
 
+## Data
+
+This repository publishes derived artifacts only — embeddings, the concept layer, lemmas, citation
+and concept tables, and figures. It does **not** include the journal's prose. The full text is
+published separately as a TEI digital edition:
+[hdlabconicet/revista-sitio-digital](https://github.com/hdlabconicet/revista-sitio-digital).
+
 ## Citation
 
 ```bibtex
